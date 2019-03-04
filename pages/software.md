@@ -14,4 +14,4 @@ permalink: /software/
 
 # My Skills
 
-[![python]({{ site.baseurl }}/images/python-logo@2x.png "an python")](https://www.python.org/)
+[![]({{ site.baseurl }}/images/python-logo@2x.png)](https://www.python.org/)
