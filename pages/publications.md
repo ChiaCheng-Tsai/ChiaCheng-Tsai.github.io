@@ -4,69 +4,165 @@ title: Publications
 permalink: /publications/
 ---
 
-Check citation report at my Google Scholar [profile](https://scholar.google.com/citations?user=X5-zCpEAAAAJ&hl=en).
+Check citation report at my Google Scholar [profile](https://scholar.google.com/citations?user=wketJ6gAAAAJ&hl=en).
 
 
-## Journal papers
+## SCI Journal papers
+* Chia-Cheng Tsai, Yueh-Ting Lin, Jen-Yi Chang, and Tai-Wen Hsu (2016, Aug). A coupled-mode study on weakly viscous Bragg scattering of surface gravity waves. , 122, 136-144.
 
-1. Sun, L., Hong, D., & __Chen, L.__ (2019). In-plane free vibrations of shallow cables with cross-ties. _Structural Control and Health Monitoring_ (under review).
+- Chia-Cheng Tsai, Yueh-Ting Lin, and Tai-Wen Hsu (2016, Jul). Propagating of obliquely incident, weakly viscous waves over variable bathymetry. Journal of Coastal Research, 32(4), 974-982.
 
-2. __Chen, L.__ & Basu, B. (2019). [Wave-current interaction effects on structural responses of floating offshore wind turbines](https://onlinelibrary.wiley.com/doi/full/10.1002/we.2288). _Wind Energy, 22_(2), 327-339.
+- Chitsan Lin, Chih-Chiang Wei and Chia-Cheng Tsai (2016, Jun). Prediction of influential operational compost parameters for monitoring composting Process. Environmental Engineering Science.
 
-3. __Chen, L.__, Basu, B. & Nielsen, S.R.K. (2019). [Nonlinear periodic response analysis of mooring cables using harmonic balance method](https://www.sciencedirect.com/science/article/pii/S0022460X18306126). _Journal of Sound and Vibration, 438_, 402-418.
+- Chia-Cheng Tsai and Wan-Rong Chou (2015, Dec). Comparison between consistent coupled-mode system and eigenfunction matching method for solving water wave scattering. Journal of Marine Science and Technology, 23(6), 870-881. (SCIE, 5/14, ENGINEERING, MARINE). 
 
-4. __Chen, L.__ & Basu, B. (2018). [Fatigue load estimation of a spar-type floating offshore wind turbine considering wave-current interactions](https://doi.org/10.1016/j.ijfatigue.2018.06.002). _International Journal of Fatigue, 116_, 421-428.
+- Chia-Cheng Tsai, Yang-Yih Chen and Hung-Chu Hsu (2015, Aug). Automatic Euler-Lagrange transformation of nonlinear progressive waves in water of uniform depth. Coastal Engineering Journal, 57(3), 1550011. (SCIE, 2/14, ENGINEERING, OCEAN). 
 
-5. __Chen, L.__, Basu, B. & Nielsen, S.R.K. (2018). [A coupled finite difference mooring dynamics model for floating offshore wind turbine analysis](https://www.sciencedirect.com/science/article/pii/S0029801818307005). _Ocean Engineering,162_, 304-315.
+- Chia-Cheng Tsai, Zhong-Han Lin and Tai-Wen Hsu (2015, Jul). Using local radial basis function collocation method to approximate radiation boundary conditions. Ocean Engineering, 105, 231–241. (SCIE, 1/14, ENGINEERING, MARINE). 
 
-6. Sun, L., Hong, D. & __Chen, L.__ (2017). [Cables interconnected with tuned inerter damper for vibration mitigation](https://www.sciencedirect.com/science/article/pii/S0141029617300743). _Engineering Structures, 151_, 57-67.
+- Chia-Cheng Tsai (2015, Mar). Polyharmonic multiquadric particular solutions for Reissner/Mindlin plate. Mathematical Problems in Engineering, Volume 2015, Article ID 246159. (SCIE, 54/85, ENGINEERING, MULTIDISCIPLINARY). 
 
-7. Sun, L. & __Chen, L.__ (2017). [Residual mode correction in calibrating nonlinear damper for vibration control of flexible structures](http://www.sciencedirect.com/science/article/pii/S0022460X17304819). _Journal of Sound and Vibration, 406_, 197-207.
+- Chia-Cheng Tsai, Yueh-Ting Lin and Tai-Wen Hsu (2015, Mar). Propagating of obliquely incident weakly viscous waves over variable bathymetry. . (Accepted). (SCIE, 168/223, ENVIRONMENTAL SCIENCES).
 
-8. __Chen, L.__ & Sun, L. (2017). [Steady-State Analysis of Cable with Nonlinear Damper via Harmonic Balance Method for Maximizing Damping](http://ascelibrary.org/doi/abs/10.1061/(ASCE)ST.1943-541X.0001645). _Journal of Structural Engineering, 143_(2), 04016172.
+- Chia-Cheng Tsai (2015, Jan). Generalized polyharmonic multiquadrics. Engineering Analysis with Boundary Elements, 50, 239–248. (SCIE, 25/85, ENGINEERING, MULTIDISCIPLINARY).
 
-9. __Chen, L.__, Basu, B. & McCabe, D. (2016). [Fractional order models for system identification of thermal dynamics of buildings](http://www.sciencedirect.com/science/article/pii/S0378778816308064). _Energy and Buildings, 133_, 381-388. ([code](https://github.com/chen-lin/farx))
+- Chia-Cheng Tsai, Yueh-Ting Lin and Tai-Wen Hsu (2014, Jun). On step approximation of water-wave scattering over steep or undulated slope. International Journal of Offshore and Polar Engineering, 28 (2), 98-105. (SCIE, 10/14, ENGINEERING, OCEAN). 
 
-10. __Chen, L.__, Sun, L. & Nagarajaiah, S. (2016). [Cable vibration control with both lateral and rotational dampers attached at an intermediate location](http://www.sciencedirect.com/science/article/pii/S0022460X16300815). _Journal of Sound and Vibration, 377_, 38-57.
+- Edward Ming-Yang Wu, Chia Cheng Tsai, Juey Fu Cheng, Shu Lung Kuo and Wei Ting Lu (2014, Mar). The application of water quality monitoring data in a reservoir watershed using AMOS confirmatory factor analyses. Environmental Modeling & Assessment, 19(4), 325-333. (SCIE, 168/223, ENVIRONMENTAL SCIENCES). 
 
-11. Sun, S., Sun, L. & __Chen, L.__ (2016). [Damage Detection Based on Structural Responses Induced by Traffic Load: Methodology and Application](http://dx.doi.org/10.1142/S0219455416400265). _International Journal of Structural Stability and Dynamics, 16_(04), 1640026.
+- Chia-Cheng Tsai and D. L. Young (2013, Dec). Using the method of fundamental solutions for obtaining exponentially convergent Helmholtz eigensolutions. CMES - Computer Modeling in Engineering and Sciences, 92(2), 175-205. (SCIE, 37/85, ENGINEERING, MULTIDISCIPLINARY). 
 
-12. Sun, L. & __Chen, L.__ (2015). [Free vibrations of a taut cable with a general viscoelastic damper modeled by fractional derivatives](http://www.sciencedirect.com/science/article/pii/S0022460X14007469). _Journal of Sound and Vibration, 335_, 19-33.
+- Chia-Cheng Tsai and Tai-Wen Hsu (2013, Jul). Multiquadric and Chebyshev approximation to three-dimensional thermoelasticity with arbitrary body forces. Engineering Analysis with Boundary Elements, 37(10), 1259–1266. (SCIE, 25/85, ENGINEERING, MULTIDISCIPLINARY). 
 
-13. __Chen, L.__, Sun, L. & Nagarajaiah, S. (2015). [Cable with discrete negative stiffness device and viscous damper: Passive realization and general characteristics](http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=KJKHFZ_2015_v15n3_627). _Smart Structures and Systems, 15_(3), 627-643. ([pdf](https://www.researchgate.net/profile/Satish_Nagarajaiah/publication/275237636_Cable_with_discrete_negative_stiffness_device_and_viscous_damper_Passive_realization_and_general_characteristics/links/55823e5808aeab1e4666e64d/Cable-with-discrete-negative-stiffness-device-and-viscous-damper-Passive-realization-and-general-characteristics.pdf))
+- Chia-Cheng Tsai, Tien-Hung Hou, Stéphane Popinet and Yung Y. Chao (2013, Jul). Prediction of waves generated by tropical cyclones with a quadtreeadaptive model. Coastal Engineering, 77, 108–119. (SCIE, 1/14, ENGINEERING, OCEAN). 
 
-14. __Chen, L.__ & Sun, L. (2015). [Laboratory-Scale Experimental Setup for Studying Cable Dampers](http://ascelibrary.org/doi/abs/10.1061/(ASCE)EM.1943-7889.0000878). _Journal of Engineering Mechanics, 141_(5), 04014159.
+- Chia-Cheng Tsai (2013, May). Analytical particular solutions of multiquadrics associated with polyharmonic operators. Mathematical Problems in Engineering, Article Number: 613082 . (SCIE, 54/85, ENGINEERING, MULTIDISCIPLINARY). 
 
-15. __Chen, L.__ & Sun, L. (2012). [Equivalent Model of Stay Cable with A Damper for Experimental Study](http://gclx.cbpt.cnki.net/WKE/WebPublication/paperDigest.aspx?paperID=31686743-7C02-4D61-AE18-0D54A301D69C). _Engineering Mechanics, 29_(S2), 139-143. (in Chinese)
+- Chia-Cheng Tsai, Yueh-Ting Lin and Tai-Wen Hsu (2013, May). On the weak viscous effect of the reflection and transmission over an arbitrary topography. Physics of Fluids, 25(4), 043103. (SCIE, 25/137, MECHANICS). 
+
+- Edward Ming-Yang Wu, Chia-Cheng Tsai, Chitsan Lin, Shu-Lung Kuo and Zhi-Bo Kang (2013, Apr). Development of a new municipal solid waste management system: multi-objective programming for a merged metropolis. Environmental Engineering Science , 30(4), 153-160. (SCIE, 35/47, ENGINEERING, ENVIRONMENTAL). 
+
+- Chia-Cheng Tsai and Po-Ho Lin (2013, Mar). On the exponential convergence of the method of fundamental solutions. International Journal of Computational Methods, 10(2), 1-21. (SCI, 55/83, ENGINEERING, MULTIDISCIPLINARY). 
+
+- Jen-Yi Chang, Chia-Cheng Tsai* and Tai-Wen Hsu (2013, Feb). Using fictitious time integration method to study wave propagation over arbitrary bathymetry. Journal of Mechanics, 29(3), 551-558. (SCI, 119/137,MECHANICS). 
+
+- Chia-Cheng Tsai and Edward Ming-Yang Wu (2012, Nov). Analytical particular solutions of augmented polyharmonic spline associated with Mindlin plate model. Numerical Methods for Partial Differential Equations, 28(6), 1778-1793. (SCIE, 122/257, MATHEMATICS, APPLIED).
+
+- Y. S. Kuo, T. W. Hsu, Chia-Cheng Tsai* and Y. H. Huang (2012, Oct). An extended analytic solution of combined refraction and diffraction of long waves propagating over circular island. Journal of Applied Mathematics, Article Number:742705. (SCI, 104/247,MATHEMATICS, APPLIED). 
+
+- Chia-Cheng Tsai (2012, Aug). Homotopy method of fundamental solutions for solving certain nonlinear partial differential equations. Engineering Analysis with Boundary Elements, 36(8), 1226-1234. (SCIE, 25/85, ENGINEERING, MULTIDISCIPLINARY).
+
+- Chia-Cheng Tsai and P. H. Lin (2012, Apr). A multiple-precision study on the modified collocation Trefftz method. CMC-Computers Materials & Continua, 28(3), 231-259. (SCI, 44/85, ENGINEERING, MULTIDISCIPLINARY). 
+
+- Chia-Cheng Tsai, Mi-Cheng Lu and Chih-Chiang Wei (2012, Feb). Decision tree-based classifier combined with neural-based predictor for water-stage forecasts in a river basin during typhoons: a case study in Taiwan. Environmental Engineering Science, 29(2), 108-116. (SCIE, 35/47, ENGINEERING, ENVIRONMENTAL).
+
+- Chia-Cheng Tsai, M. Enamul Quadir, Tai-Wen Hsu and H.-H. Hwung (2011, Dec). Particular solution of polyharmonic spline associated with Reissner plate problems. Journal of Mechanics, 27(4), 493-501. (SCIE, 119/137,MECHANICS). 
+
+- Chia-Cheng Tsai (2011, Jul). Automatic particular solutions of arbitrary high-order splines associated with polyharmonic and poly-Helmholtz equations. Engineering Analysis with Boundary Elements, 35(7), 925-934. (SCI, 25/85,ENGINEERING, MULTIDISCIPLINARY). 
+
+- Chia-Cheng Tsai and Tai-Wen Hsu (2011, May). A meshless numerical method for solving slow mixed convections in containers with discontinuous boundary data. International Journal for Numerical Methods in Fluids, 66(3), 377-402. (SCI, 40/99, MATHEMATICS, INTERDISCIPLINARY APPLICATIONS). 
+
+- Chia-Cheng Tsai, Tai-Wen Hsu and Yueh-Ting Lin (2011, May). On step approximation for Roseau's analytical solution of water waves. Mathematical Problems in Engineering, Article Number:607196. (SCI, 54/85, ENGINEERING, MULTIDISCIPLINARY). 
+
+- Chia-Cheng Tsai (2011, Apr). A meshless numerical method for Kirchhoff plates under arbitrary loadings. CMC-Computers Materials & Continua, 22(3), 197-218. (SCI, 44/85, ENGINEERING, MULTIDISCIPLINARY). 
+
+- Chia-Cheng Tsai and Tai-Wen Hsu (2010, Apr). The method of fundamental solutions for oscillatory and porous buoyant flows. Computers & Fluids, 39(4), 696-708. (SCI, 48/134, MECHANICS). 
+
+- Chia-Cheng Tsai, C.S Liu and W.C. Yeih (2010, Feb). Fictitious time integration method of fundamental solutions with Chebyshev polynomials for solving Poisson-type Nonlinear PDEs. CMES-Computer Modeling in Engineering & Sciences, 56(2), 131-151. (SCI, 38/90, ENGINEERING, MULTIDISCIPLINARY). 
+
+- Chia-Cheng Tsai (2010, Jan). The particular solutions for thin plates resting on Pasternak foundations under arbitrary loadings. Numerical Methods for Partial Differential Equations, 26(1), 206-220. (SCI, 122/257, MATHEMATICS, APPLIED). 
+
+- Chia-Cheng Tsai, C.S. Chen and Tai-Wen Hsu (2009, Dec). The method of particular solutions for solving axisymmetric polyharmonic and poly-Helmholtz equations. Engineering Analysis with Boundary Elements, 33(12), 1396–1402. (SCI, 25/85, ENGINEERING, MULTIDISCIPLINARY).
+
+- Guangming Yao, C. S. Chen and Chia-Cheng Tsai (2009, Dec). A revisit on the derivation of the particular solution for the differential operator $\Delta^2 \pm \lambda^2$. Advances in Applied Mathematics and Mechanics, 1(6), 750-768. (SCI, 180/257,MATHEMATICS, APPLIED). 
+
+- Chia-Cheng Tsai, D.L. Young, C.L. Chiu and C.M. Fan (2009, Jul). Numerical analysis of acoustic modes using the linear least squares MFS. Journal of Sound and Vibration, 324, 1086-1110. (SCI, 25/130, ENGINEERING, MECHANICAL). 
+
+- Chia-Cheng Tsai (2009, Jun). The method of fundamental solutions with dual reciprocity for three-dimensional thermoelasticity under arbitrary body forces . Engineering Computations, 26, 229-244. (SCI, 21/85, ENGINEERING, MULTIDISCIPLINARY). 
+
+- Chia-Cheng Tsai (2009, Jun). The particular solutions of Chebyshev polynomials for Reissner plates under arbitrary loadings. CMES-Computer Modeling in Engineering & Sciences, 45(3), 249-272. (SCI, 38/90, ENGINEERING, MULTIDISCIPLINARY). 
+
+- Chia-Cheng Tsai, A.H.-D. Cheng and C.S. Chen (2009, Apr). Particular solutions of splines and monomials for polyharmonic and products of Helmholtz operators. Engineering Analysis with Boundary Elements, 33(4), 514-521. (SCI, 25/85,ENGINEERING, MULTIDISCIPLINARY). 
+
+- Chia-Cheng Tsai (2008, Jun). The method of fundamental solutions with dual reciprocity for thin plates on Winkler foundations with arbitrary loadings. Journal of Mechanics, 24(2), 163-171. (SCIE, 119/137, MECHANICS).
+
+- Chia-Cheng Tsai (2008, Apr). Particular solutions of Chebyshev polynomials for polyharmonic and poly-Helmholtz equations. CMES-Computer Modeling in Engineering & Sciences, 27(3), 151-162. (SCI, 38/90, ENGINEERING, MULTIDISCIPLINARY). 
+
+- Chia-Cheng Tsai (2008, Mar). Solutions of slow Brinkman flows using the method of fundamental solutions. International Journal for Numerical Methods in Fluids, 56(7), 927-940. (SCI, 30/92, MATHEMATICS, INTERDISCIPLINARY APPLICATIONS). .
+
+- D. L. Young, Chia-Cheng Tsai, C. W. Chen and C.M. Fan (2008, Mar). The method of fundamental solutions and condition number analysis for inverse problems of Laplace equation. Computers & Mathematics with Applications, 55(6), 1189-1200. (SCI, 26/257,MATHEMATICS, APPLIED). 
+
+- Chia-Cheng Tsai (2007, Jul). The method of fundamental solutions for three-dimensional elastostatic problems of transversely isotropic solids. Engineering Analysis with Boundary Elements, 31(7), 586-594. (SCI, 25/85, ENGINEERING, MULTIDISCIPLINARY). 
+
+- D.C. Lo, D.L. Young and Chia-Cheng Tsai (2007, Jun). High resolution for 2D natural convection in a cavity by the DQ method. Journal of Computational and Applied Mathematics, 203(1), 219-236. (SCI, 59/257, MATHEMATICS, APPLIED). 
+
+- D.C. Lo, D.L. Young, K. Murugesan, Chia-Cheng Tsai and M.H. Gou (2007, Feb). Velocity-vorticity formulation for 3D natural convection in an inclined cavity by DQ method. International Journal of Heat and Mass Transfer, 50, 479-491. (SCI, 11/130, ENGINEERING, MECHANICAL). 
+
+- Chia-Cheng Tsai, Y.C. Lin, D.L. Young and S.N. Atluri (2006, Dec). Investigations on the accuracy and condition number for the method of fundamental solutions. CMES-Computer Modeling in Engineering & Sciences, 16(2), 103-114. (SCI, 38/90, ENGINEERING, MULTIDISCIPLINARY).
+
+- D.L. Young, C.L. Chiu, C.M. Fan, Chia-Cheng Tsai and Y.C. Lin (2006, Nov). Method of fundamental solutions for multidimensional Stokes equations by the dual-potential formulation. European Journal of Mechanics B-Fluids , 25(6), 877-893. (SCI, 46/137, MECHANICS).
+
+- Chia-Cheng Tsai, D.L. Young, C.M. Fan and C.W. Chen (2006, Oct). MFS with time-dependent fundamental solutions for unsteady Stokes equations. Engineering Analysis with Boundary Elements, 30(10), 897-908. (SCI, 25/85, ENGINEERING, MULTIDISCIPLINARY). 
+
+- Chia-Cheng Tsai, D.L. Young, J.H. Chiang and D.C. Lo (2006, Oct). The method of fundamental solutions for solving option pricing models. Applied Mathematics and Computation, 181(1), 390-401. (SCI, 35/257, MATHEMATICS, APPLIED). 
+
+- Chia-Cheng Tsai, D.L. Young and C.M. Fan (2006, Sep). Method of fundamental solutions for plate vibrations in multiply connected domains. Journal of Mechanics, 22(3), 235-245. (SCI, 119/137, MECHANICS). 
+
+- D.L. Young, Chia-Cheng Tsai, Y.C. Lin and C.S. Chen (2006, Aug). The method of fundamental solutions for eigenfrequencies of plate vibrations. CMC-Computers Materials & Continua , 4(1), 1-10. (SCI, 44/85, ENGINEERING, MULTIDISCIPLINARY). 
+
+- Chia-Cheng Tsai, C. W. Chen, D. L. Young and C.M. Fan (2006, May). The method of fundamental solutions for eigenproblems in domains with and without interior holes. Proceedings of the Royal Society A-Mathematical Physical and Engineering Sciences , 462, 1443-1466. (SCI, 11/57, MULTIDISCIPLINARY SCIENCES). .
+
+- Chia-Cheng Tsai, D. L. Young, D. C. Lo and T. K Wong (2006, Mar). Method of fundamental solutions for three-dimensional Stokes flow in exterior field. Journal of Engineering Mechanics-ASCE, 132(3), 317-326. (SCI, 45/130,ENGINEERING, MECHANICAL). 
+
+- C. M. Fan, D.L. Young, K. Murugesan and Chia-Cheng Tsai (2006, Jan). The method of fundamental solutions and domain decomposition method for degenerate seepage flownet problems. Journal of the Chinese Institute of Engineers, 29(1), 63-73. (SCI, 81/85, ENGINEERING, MULTIDISCIPLINARY ). 
+
+- D. L. Young, C. W. Chen, C.M. Fan and Chia-Cheng Tsai (2006, Jan). The method of fundamental solutions with eigenfunction expansion method for nonhomogeneous diffusion equation. Numerical Methods for Partial Differential Equations, 22(5), 1173-1196. (SCI, 122/257, MATHEMATICS, APPLIED). 
+
+- D. L. Young, S. C. Jane, C. M. Fan, K. Murugesan and Chia-Cheng Tsai (2006, Jan). The method of fundamental solutions for 2D and 3D Stokes problems. Journal of Computational Physics, 211(1), 1-8. (SCI, 3/54, PHYSICS, MATHEMATICAL). 
+
+- C. W. Chen, D. L. Young, Chia-Cheng Tsai and K. Murugesan (2005, Dec). The method of fundamental solutions for inverse 2D Stokes problems. Computational Mechanics, 37(1), 2-14. (SCI, 8/99,MATHEMATICS, INTERDISCIPLINARY APPLICATIONS).
+
+- D. L. Young, C. W. Chen, C. M. Fan, K. Murugesan and Chia-Cheng Tsai (2005, Nov). The method of fundamental solutions for Stokes flow in a rectangular cavity with cylinders. European Journal of Mechanics B-Fluids, 24(6), 703-716. (SCI, 46/137,MECHANICS). 
+
+- C.W. Chen, C.M. Fan, D.L. Young, K. Murugesan and Chia-Cheng Tsai (2005, Apr). Eigenanalysis of membranes with stringers by method of fundamental solutions and domain decomposition technique. CMES-Computer Modeling in Engineering & Sciences, 8(1), 29-44. (SCI, 38/90, ENGINEERING, MULTIDISCIPLINARY).
+
+- D.L. Young, W.S. Hwang, Chia-Cheng Tsai and H.L. Lu (2005, Mar). Accuracy of desingularized boundary integral equations for plane exterior potential problems. Engineering Analysis with Boundary Elements, 29(3), 224-231. (SCI, 25/85, ENGINEERING, MULTIDISCIPLINARY). 
+
+- D.L. Young, Chia-Cheng Tsai, K. Murugesan, C.M. Fan and C.W. Chen (2004, Dec). Time-dependent fundamental solutions for homogeneous diffusion problems. Engineering Analysis with Boundary Elements, 28(12), 1463-1473. (SCI, 25/85, ENGINEERING, MULTIDISCIPLINARY). 
+
+- D.L. Young, Chia-Cheng Tsai and C.M. Fan (2004, Aug). Direct approach to solve nonhomogeneous diffusion problems using fundamental solutions and dual reciprocity methods. Journal of the Chinese Institute of Engineers, 27(4), 597-609. (SCI, 81/85, ENGINEERING, MULTIDISCIPLINARY). 
+
+- D.L. Young, Chia-Cheng Tsai, T.I. Eldho and A.H.-D. Cheng (2002, Feb). Solution of stokes flow using an iterative DRBEM based on compactly-supported, positive-definite radial basis function. Computers & Mathematics with Applications, 43, 607-619. (SCI, 26/257, MATHEMATICS, APPLIED).
+
+- Chia-Cheng Tsai, D.L. Young and A.H.-D. Cheng (2002, Jan). Meshless BEM for Three-dimensional Stokes Flows. CMES-Computer Modeling in Engineering & Sciences, 3(1), 117-128. (SCI, 38/90, ENGINEERING, MULTIDISCIPLINARY). 
+
+- A.H.-D. Cheng, D.L. Young and Chia-Cheng Tsai (2000, Sep). Solution of Poisson's equation by iterative DRBEM using compactly supported, positive definite radial basis function. Engineering Analysis with Boundary Elements, 24, 549-557. (SCI, 25/85, ENGINEERING, MULTIDISCIPLINARY ).
+
 
 ## Conference papers
 
-1. __Chen, L.__ & Basu, B. (2018). [Development of an open-source simulation tool for mooring systems](https://www.researchgate.net/publication/327424791_Development_of_an_open-source_simulation_tool_for_mooring_systems). In _Proceedings of the 2018 Civil Engineering Research in Ireland conference_ (CERI2018), Dublin, Ireland, pp. 823-828.
+* Chia-Cheng Tsai* and Tien-Hung Hou (2014, Sep). A Quadtree-Adaptive Model for Predicting Waves Generated by Tropical Cyclones. 7th Chinese-German Joint Symposium on Hydraulic and Ocean Engineering, German, September 7-12, 2014.
 
-2. __Chen, L.__, Basu, B. & Nielsen, S.R.K. (2018). [Harmonic balance analysis of mooring cables](https://www.researchgate.net/publication/326647353_Harmonic_balance_analysis_of_mooring_cables). In _Proceedings of the 7th World Conference on Structural Control and Monitoring_ (7WCSCM), Qingdao, China, pp. 3354.
+- Chia-Cheng Tsai (2013, Dec). Generalized polyharmonic multiquadrics. the 5th Asia Pacific Congress on Computational Mechanics and 4th International Symposium on computational Mechanics, Singapore, December 11-14, 2013.
 
-3. Hong, D., Sun, L. & __Chen, L.__ (2018). Vibrations of two shallow cables with a cross-tie. In _Proceedings of the 7th World Conference on Structural Control and Monitoring_ (7WCSCM), Qingdao, China, pp. 1148-1158.
+- Chia-Cheng Tsai, D. L. Young (2013, May). Using the method of fundamental solutions for obtaining exponentially convergent Helmholtz eigensolutions. International Conference on Computational & Experimental Engineering and Sciences, Seattle, USA May 24-28, 2013.
 
-4. Sun, L. & __Chen, L.__ (2018). [An improved numerical model for a shallow cable attached with dampers](https://www.researchgate.net/publication/326647643_An_improved_numerical_model_for_a_shallow_cable_attached_with_dampers?_sg=FxiKwEZJuFTa_q__Z8Ozm36KqP1bphTFcK8ysXR2JUQMy4w7efTNqTy7T_pifImaGtu6C4ig8lL4ywygHDo3xbVJRDLJJ5I_B1WKGy9M.UKpekCi3D7ZzzkGIZzSVGmnK_8hltdgIyMxO0MMD8mAsO7LjFFVXpmAcQbTn9WtV_99LAuy-QpZEhS1JLdt7ww). In _Proceedings of the 7th World Conference on Structural Control and Monitoring_ (7WCSCM), Qingdao, China, pp. 2949-2957.
+- Chia-Cheng Tsai, Tai-Wen Hsu (2012, Sep). Multiquadric and Chebyshev approximation to three-dimensional thermoelasticity with arbitrary body forces. ICCES Special Symposium on Meshless & Other Novel Computational Methods, Montenegro, Sep 2-6.
 
-5. __Chen, L.__ & Basu, B. (2017). Fatigue Load Estimation for a Spar-type Floating Offshore Wind Turbine using Frequency Domain Method. In _Proceedings of IUTAM Symposium on Multi-scale Fatigue_, Fracture & Damage of Materials in Harsh Environments, Galway, Ireland.
+- Chia-Cheng Tsai, Tai-Wen Hsu (2011, Jun). On Step Approximation of Water-Wave Scattering by a Steep Slope. International Offshore and Polar Engineering Conference, Maui, Hawaii, USA, June 19-24, 2011.
 
-6. __Chen, L.__ & Sun, L. (2017). [Calibration of nonlinear damper for shallow cable based on forced vibration analysis](https://www.researchgate.net/profile/Lin_Chen96/publication/320554603_Calibration_of_nonlinear_damper_for_shallow_cable_based_on_forced_vibration_analysis/links/59ec525c0f7e9bfdeb705cbf/Calibration-of-nonlinear-damper-for-shallow-cable-based-on-forced-vibration-analysis.pdf). In _Proceedings of the 15th East Asia-Pacific Conference on Structural Engineering & Construction_ (EASEC-15), Xi’an, China, pp. 1852-1859.
+- Yueh-Ting Lin, Chia-Cheng Tsai and Tai-Wen Hsu (2011, Jun). On the reflection of viscous waves propagating over a planar slope. International Offshore and Polar Engineering Conference, Maui, Hawaii, USA, June 19-24.
 
-7. Sun, L. & __Chen, L.__ (2017). [Optimizing Nonlinear Damper Performance for Multi-Mode Cable Vibration Control based on Forced Vibration Responses](http://www.ingentaconnect.com/contentone/iabse/report/2017/00000109/00000013/art00005). In _IABSE Symposium Report, IABSE Symposium Vancouver 2017: Engineering the Future_, Vancouver, Canada, pp. 2997-3002.
+- Chia-Cheng Tsai (2011). On the exponential convergence of method of fundamental solutions. Trefftz VI / MFS II 2011, Kaohsiung, March 15-18.
 
-8. __Chen, L.__ & Basu, B. (2017). [A numerical study on super-harmonic responses of mooring cables subjected to top end excitations](https://www.researchgate.net/publication/320741571_A_numerical_study_on_super-harmonic_responses_of_mooring_cables_subjected_to_top_end_excitations). In _Proceedings of  the International Symposium on the Dynamics and Aerodynamics of Cables_ (ISDAC), Porto, Portugal, pp. 291-299.
+- C.C. Tsai, C.S Liu, W.C. Yeih (2010, Mar). Fictitious time integration method of fundamental solutions with Chebyshev polynomials for solving Poisson-type Nonlinear PDEs. International Conference on Computational & Experimental Engineering & Science, Las Vegas, USA, March 28-April 2.
 
-9. __Chen, L.__ & Basu, B. (2017). [A numerical Study on In-plane Wave Propagation in Mooring Cables](https://doi.org/10.1016/j.proeng.2016.12.146). _Procedia Engineering, 173_, 934-939.
+- T.W. Hsu, C.C. Tsai, J.Y. Chang (2010). Using fictitious time integration method to study wave propagation over bathymetry with measure uncertainty. International Conference on Computational & Experimental Engineering & Science, Las Vegas, USA, March 28-April 2.
 
-10. Sun, L. & __Chen, L.__ (2016). [Periodic Responses of a Taut Cable Attached with a Friction Damper Computed Using Multi-Harmonic Balance Method](http://www.ingentaconnect.com/contentone/iabse/report/2016/00000106/00000009/art00006). In _IABSE Symposium Report, IABSE Conference Guangzhou 2016: Bridges and Structures Sustainability-Seeking Intelligent Solutions_, pp. 464-471.
+- C.C. Tsai (2009, Mar). The Particular Solutions of Chebyshev Polynomials for Reissner Plates under Arbitrary Loadings. International Conference on Computational & Experimental Engineering & Science, Phuket, Thailand, April 8-11.
 
-11. __Chen, L.__ & Sun, L. (2014). [Dynamic Characteristics of a Taut Cable with a Maxwell Damper](https://www.researchgate.net/publication/281550889_Dynamic_Characteristics_of_a_Taut_Cable_with_a_Maxwell_Damper). In _Proceedings of the 6th World Conference on Structural Control and Monitoring_ (6WCSCM), Barcelona, Spain, pp. 2891-2900.
+- C.C. Tsai (2008, Dec). A Comparison of Two Semi-analytical Methods for Solving Slow Mixed Convections. Third International Conference on Scientific Computing and Partial Differential Equations, Baptist University, Hong Kong, Dec 7-13.
 
-12. __Chen, L.__, Nagarajaiah, S. & Sun, L. (2014). [Modal identification of a long-span cable-stayed bridge by blind source separation](https://www.researchgate.net/profile/Lin_Chen96/publication/281551121_Modal_Identification_of_a_Long-span_Cable-stayed_Bridge_by_Blind_Source_Separation/links/55ed688108aeb6516268da33.pdf). In _Proceedings of the 6th World Conference on Structural Control and Monitoring_ (6WCSCM), Barcelona, Spain, pp. 2522-2531.
+- C.C. Tsai (2008, May). Particular Solutions of Chebyshev Polynomials for Polyharmonic and Poly-Helmholtz Equations. International Conference on Computational & Experimental Engineering & Science, Honolulu, Hawaii, USA, Mar 17-22.
 
-13. Sun, L. & __Chen, L.__ (2011). Equivalent model of stay cable with full-scale damper for experimental study. In _Proceedings of the 9th International Symposium on Cable Dynamics_ (ISCD), Shanghai, China, pp. 55-61.
-
-## Thesis
-
-- __陈林__, 2015. [斜拉索阻尼器减振方案及分析方法研究](https://www.researchgate.net/publication/318760977_xielasuozuniqijianzhenfanganjifenxifangfayanjiu). _博士论文_,同济大学.
+- CC Tsai (2007). The Dual Reciprocity Method of Fundamental Solutions for Thin Plates on Pasternak Foundations with Arbitrary Loadings. MFS2007, Ayia Napa, Cyprus, June 11-13. 
