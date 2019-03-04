@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course
-permalink: /publications/
+permalink: /course/
 ---
 
 ### 2016 Spring
