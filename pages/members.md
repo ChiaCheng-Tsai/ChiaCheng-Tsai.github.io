@@ -6,7 +6,7 @@ permalink: /members/
 
 |    |         |    |
 |:------:|:----------:|------------|
-| <br>![]({{ site.baseurl }}/images/members/1551757722171.jpg) | <br>Tien-Hung Hou | <br>Ph.D student<br>houtienhung@gmail.com<br>Wind-wave model, adaptive quadtree model, ocean modelling and others |
+| <br>![]({{ site.baseurl }}/images/members/1551757722171.jpg =600X500) | <br>Tien-Hung Hou | <br>Ph.D student<br>houtienhung@gmail.com<br>Wind-wave model, adaptive quadtree model, ocean modelling and others |
 | <br>![]({{ site.baseurl }}/images/members/1551757727121.jpg) | <br>Wan-Rong Chou | <br>Ph.D student<br>joungwanrong@gmail.com<br>Mild-slope equation, step approximations, finite element method, Boussinesq equations, and others |
 | <br>![]({{ site.baseurl }}/images/members/1551757733038.jpg) | <br>Xiaoxiao Wang | <br>Ph.D student<br>xiaoxiao.wang@griffithuni.edu.au<br>Seabed response, poroelasticity, meshless numerical method and others |
 | <br>![]({{ site.baseurl }}/images/members/1551757746870.jpg) | <br>Shuang Han | <br>Ph.D student<br>shuang.han3@griffithuni.edu.au<br>Seabed response, poroelasticity, meshless numerical method and others |
@@ -21,7 +21,7 @@ permalink: /members/
 
 |    |         |    |
 |:------:|:----------:|------------|
-| <br>![]({{ site.baseurl }}/images/members/1551757798969.jpg =100) | <br>Yueh-Ting Lin (2018)  | <br>Postdoctoral fellow<br>smalltennislin@gmail.com<br>Viscous waves, step approximations and others |
+| <br>![]({{ site.baseurl }}/images/members/1551757798969.jpg) | <br>Yueh-Ting Lin (2018)  | <br>Postdoctoral fellow<br>smalltennislin@gmail.com<br>Viscous waves, step approximations and others |
 | <br>![]({{ site.baseurl }}/images/members/1551757805621.jpg) | <br>Ben Lin (2018) | <br>Master student<br>jaguar3096@gmail.com<br>Numerical wave tank by LRBFCM |
 | <br>![]({{ site.baseurl }}/images/members/1551757813988.jpg) | <br>Tong-Xuan Hong | <br>Master student<br>jeff02270227@hotmail.com<br>Numerical model |
 | <br>![]({{ site.baseurl }}/images/members/1551757822470.jpg) | <br>Wei Tai (2015) | <br>Master student<br>xs516@hotmail.com<br>Wave interaction with structures |
