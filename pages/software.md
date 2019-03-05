@@ -4,19 +4,23 @@ title: Software
 permalink: /software/
 ---
 
-The following tools I have developed in my research can be found at [GitHub](http://github.com/chen-lin).
+# My Github
 
-## openmoor
+* [GitHub](https://github.com/) is a web-based Git or version control repository and Internet hosting service. You can visit [My Github](https://github.com/FiniteTsai) to access my repositories (open-source codes) listed in the following:
 
-Openmoor is an open-source program for simulating mooring systems in offshore floating wind turbines and wave energy devices. Find the source code and examples at [GitHub](https://github.com/chen-lin/openmoor/) and the tutorial on openmoor official [website](https://openmoor.github.io).
+  - [FentonStokesClass](https://github.com/FiniteTsai/FentonStokesClass) is a C++ code for the Fourier, 7th-ordered Stokes, and 5th-order Cnoidal nonlinear water wave theories.
 
-Below is an example of using openmoor to simulate the motions of a mooring cable model subjected to forced motions at the top end for two cases:
-- Case 1: forced upper end circular motion with radius 0.2 m and period 3.5 s
-- Case 2: forced upper end circular motion with radius 0.2 m and period 1.25 s
+  - [SymbolicStokesWave](https://github.com/FiniteTsai/SymbolicStokesWave) is a Mathematica code for solving Stokes wave in the Eulerian and Lagrangian descriptions.
 
-| ![](https://github.com/chen-lin/OpenMOOR/blob/master/examples/validation/Case3-5.gif?raw=true) | ![](https://github.com/chen-lin/OpenMOOR/blob/master/examples/validation/Case1-25.gif?raw=true) |
-| :---: | :---: |
-| Case 1 | Case 2 |
 
-## farx
-Fractional-order AutoRegressive model with eXogenous variables (FARX) for building thermo-dynamics can achieve comparable accuracy as classical ARX models while with a largely reduced number of parameters. This largely reduces the identification cost in system identification, therefore facilitating the model-predictive control. Find the code and an example [here](https://github.com/chen-lin/farx/).
+# My Skills
+
+[![]({{ site.baseurl }}/images/python-logo@2x.png)](https://www.python.org/) [![]({{ site.baseurl }}/images/C++.jpg)](http://www.stroustrup.com/C++.html)
+[![]({{ site.baseurl }}/images/wolfram-mathematica-logo-new.jpg)](http://www.wolfram.com/) [![]({{ site.baseurl }}/images/logo_getfem_small.png)](http://getfem.org/)
+[![]({{ site.baseurl }}/images/codeblocks2.png)](http://www.codeblocks.org/) [![]({{ site.baseurl }}/images/gmmlogo.png)](http://getfem.org/gmm/index.html)
+[![]({{ site.baseurl }}/images/Gerris_logo.png)](http://gfs.sourceforge.net/wiki/index.php/Main_Page) [![]({{ site.baseurl }}/images/POM.jpg)](http://www.ccpo.odu.edu/POMWEB/)
+[![]({{ site.baseurl }}/images/galviston.png)](https://github.com/ofringer/suntans) [![]({{ site.baseurl }}/images/oomph_logo.png)](http://oomph-lib.maths.man.ac.uk/doc/html/index.html)
+[![]({{ site.baseurl }}/images/opendrift_logo.png)](https://github.com/opendrift/opendrift/wiki) [![]({{ site.baseurl }}/images/minGW.jpg	
+)](https://www.dropbox.com/sh/597q5qjqooigf02/AACB2VJm4DtQVu3vutPdO85fa?dl=0)
+[![]({{ site.baseurl }}/images/MSYS2.jpg)](https://www.msys2.org/) [![]({{ site.baseurl }}/images/CFortranTranslator.jpg)](https://github.com/CalvinNeo/CFortranTranslator)
+[![]({{ site.baseurl }}/images/Matlab2Cpp.jpg)](https://github.com/jonathf/matlab2cpp)
