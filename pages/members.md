@@ -3,8 +3,6 @@ layout: page
 title: Meet group Members!
 permalink: /members/
 ---
-
-
 |    |         |    |
 |:------:|:----------:|------------|
 | <br>![]({{ site.baseurl }}/images/members/1551757722171.jpg) | Tien-Hung Hou | Ph.D student<br>houtienhung@gmail.com<br>Wind-wave model, adaptive quadtree model, ocean modelling and others |
@@ -19,4 +17,15 @@ permalink: /members/
 
 
 # Alumni
-
+|   |   |  |
+|:---:|:---:|---|
+| ![]({{ site.baseurl }}/images/members/1551757798969.jpg) | Yueh-Ting Lin (2018)  | Postdoctoral fellow<br>smalltennislin@gmail.com<br>Viscous waves, step approximations and others |
+| ![]({{ site.baseurl }}/images/members/1551757805621.jpg) | Ben Lin (2018) | Master student<br>jaguar3096@gmail.com<br>Numerical wave tank by LRBFCM |
+| ![]({{ site.baseurl }}/images/members/1551757813988.jpg) | Tong-Xuan Hong | Master student<br>jeff02270227@hotmail.com<br>Numerical model |
+| ![]({{ site.baseurl }}/images/members/1551757822470.jpg) | Wei Tai (2015) | Master student<br>xs516@hotmail.com<br>Wave interaction with structures |
+| ![]({{ site.baseurl }}/images/members/1551757838237.jpg) | Yong-Sheng Chen (2016) | Master student<br>a1992215@gmail.com<br>Wave flume experiments |
+| ![]({{ site.baseurl }}/images/members/1551757833419.jpg) | Yuk-Sun Chang (2014) | Master student<br>yuksun115@gmail.com<br>Water waves scattering over porous media |
+| ![]({{ site.baseurl }}/images/members/1551757828052.jpg) | Zhong-Han Lin (2013) | Master student<br>andy79199079@hotmail.com<br>Local radial basis function collocation method |
+| ![]({{ site.baseurl }}/images/members/1551757863118.jpg) | Sieu-Cuong San (2014) | Master student<br>san.sieucuong@gmail.com<br>Analytical solution of water waves |
+| ![]({{ site.baseurl }}/images/members/1551757859336.jpg) | I-Yin Chen (2012) | Master student<br>nwpirron@gmail.com<br>Quadtree-adaptive, numerical wave tank |
+| ![]({{ site.baseurl }}/images/members/1551757854303.jpg) | Huan-Yu Lee (2013) | Master student<br>chrichelle520@gmail.com<br>Numerical experiment of weak viscous wave |
