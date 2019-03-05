@@ -7,7 +7,7 @@ permalink: /members/
 
 |    |         |    |
 |:------:|:----------:|------------|
-| <br><br><br><br><br> ![]({{ site.baseurl }}/images/members/1551757722171.jpg) | Tien-Hung Hou | Ph.D student<br>houtienhung@gmail.com<br>Wind-wave model, adaptive quadtree model, ocean modelling and others |
+| <p>![]({{ site.baseurl }}/images/members/1551757722171.jpg)<p> | Tien-Hung Hou | Ph.D student<br>houtienhung@gmail.com<br>Wind-wave model, adaptive quadtree model, ocean modelling and others |
 | <br><br><br><br><br> ![]({{ site.baseurl }}/images/members/1551757727121.jpg) | Wan-Rong Chou | Ph.D student<br>joungwanrong@gmail.com<br>Mild-slope equation, step approximations, finite element method, Boussinesq equations, and others |
 | <br><br><br><br><br> ![]({{ site.baseurl }}/images/members/1551757733038.jpg) | Xiaoxiao Wang | Ph.D student<br>xiaoxiao.wang@griffithuni.edu.au<br>Seabed response, poroelasticity, meshless numerical method and others |
 | <br><br><br><br><br> ![]({{ site.baseurl }}/images/members/1551757746870.jpg) | Shuang Han | Ph.D student<br>shuang.han3@griffithuni.edu.au<br>Seabed response, poroelasticity, meshless numerical method and others |
