@@ -15,12 +15,18 @@ permalink: /software/
 
 # My Skills
 
-[![]({{ site.baseurl }}/images/python-logo@2x.png)](https://www.python.org/) [![]({{ site.baseurl }}/images/C++.jpg)](http://www.stroustrup.com/C++.html)
-[![]({{ site.baseurl }}/images/wolfram-mathematica-logo-new.jpg)](http://www.wolfram.com/) [![]({{ site.baseurl }}/images/logo_getfem_small.png)](http://getfem.org/)
-[![]({{ site.baseurl }}/images/codeblocks2.png)](http://www.codeblocks.org/) [![]({{ site.baseurl }}/images/gmmlogo.png)](http://getfem.org/gmm/index.html)
-[![]({{ site.baseurl }}/images/Gerris_logo.png)](http://gfs.sourceforge.net/wiki/index.php/Main_Page) [![]({{ site.baseurl }}/images/POM.jpg)](http://www.ccpo.odu.edu/POMWEB/)
-[![]({{ site.baseurl }}/images/galviston.png)](https://github.com/ofringer/suntans) [![]({{ site.baseurl }}/images/oomph_logo.png)](http://oomph-lib.maths.man.ac.uk/doc/html/index.html)
-[![]({{ site.baseurl }}/images/opendrift_logo.png)](https://github.com/opendrift/opendrift/wiki) [![]({{ site.baseurl }}/images/minGW.jpg	
-)](https://www.dropbox.com/sh/597q5qjqooigf02/AACB2VJm4DtQVu3vutPdO85fa?dl=0)
-[![]({{ site.baseurl }}/images/MSYS2.jpg)](https://www.msys2.org/) [![]({{ site.baseurl }}/images/CFortranTranslator.jpg)](https://github.com/CalvinNeo/CFortranTranslator)
-[![]({{ site.baseurl }}/images/Matlab2Cpp.jpg)](https://github.com/jonathf/matlab2cpp)
+[<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/codeblocks2.png" width="275">](http://www.codeblocks.org/) 
+[<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/C++.jpg" width="275">](http://www.stroustrup.com/C++.html) 
+[<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/wolfram-mathematica-logo-new.jpg" width="275">](http://www.wolfram.com/) 
+[<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/logo_getfem_small.png" width="275">](http://getfem.org/) 
+[<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/python-logo@2x.png" width="275">](https://www.python.org/) 
+[<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/gmmlogo.png" width="275">](http://getfem.org/gmm/index.html)
+[<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/Gerris_logo.png" width="275">](http://gfs.sourceforge.net/wiki/index.php/Main_Page) 
+[<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/POM.jpg" width="275">](http://www.ccpo.odu.edu/POMWEB/)
+[<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/galviston.png" width="275">](https://github.com/ofringer/suntans) 
+[<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/MSYS2.jpg" width="275">](https://www.msys2.org/) 
+[<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/opendrift_logo.png" width="275">](https://github.com/opendrift/opendrift/wiki) 
+[<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/minGW.jpg" width="275">](https://www.dropbox.com/sh/597q5qjqooigf02/AACB2VJm4DtQVu3vutPdO85fa?dl=0)
+[<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/oomph_logo.png" width="275">](http://oomph-lib.maths.man.ac.uk/doc/html/index.html)
+[<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/CFortranTranslator.jpg" width="275">](https://github.com/CalvinNeo/CFortranTranslator)
+[<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/Matlab2Cpp.jpg" width="275">](https://github.com/jonathf/matlab2cpp)
