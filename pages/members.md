@@ -21,7 +21,7 @@ permalink: /members/
 
 |    |         |    |
 |:------:|:----------:|------------|
-| <br>![]({{ site.baseurl }}/images/members/1551757798969.jpg) | <br>Yueh-Ting Lin (2018)  | <br>Postdoctoral fellow<br>smalltennislin@gmail.com<br>Viscous waves, step approximations and others |
+| <br>![]({{ site.baseurl }}/images/members/1551757798969.jpg =100) | <br>Yueh-Ting Lin (2018)  | <br>Postdoctoral fellow<br>smalltennislin@gmail.com<br>Viscous waves, step approximations and others |
 | <br>![]({{ site.baseurl }}/images/members/1551757805621.jpg) | <br>Ben Lin (2018) | <br>Master student<br>jaguar3096@gmail.com<br>Numerical wave tank by LRBFCM |
 | <br>![]({{ site.baseurl }}/images/members/1551757813988.jpg) | <br>Tong-Xuan Hong | <br>Master student<br>jeff02270227@hotmail.com<br>Numerical model |
 | <br>![]({{ site.baseurl }}/images/members/1551757822470.jpg) | <br>Wei Tai (2015) | <br>Master student<br>xs516@hotmail.com<br>Wave interaction with structures |
