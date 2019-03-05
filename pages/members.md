@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Members
+title: Meet group Members!
 permalink: /members/
 ---
 
-# Meet group Members!
 
 |    |         |    |
 |:------:|:----------:|------------|
