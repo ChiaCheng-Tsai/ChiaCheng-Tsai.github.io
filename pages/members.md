@@ -3,6 +3,7 @@ layout: page
 title: Meet group Members!
 permalink: /members/
 ---
+
 |    |         |    |
 |:------:|:----------:|------------|
 | <br>![]({{ site.baseurl }}/images/members/1551757722171.jpg) | <br>Tien-Hung Hou | <br>Ph.D student<br>houtienhung@gmail.com<br>Wind-wave model, adaptive quadtree model, ocean modelling and others |
@@ -17,8 +18,9 @@ permalink: /members/
 
 
 # Alumni
-|     |     |   |
-|:---:|:---:|---|
+
+|    |         |    |
+|:------:|:----------:|------------|
 | <br>![]({{ site.baseurl }}/images/members/1551757798969.jpg) | <br>Yueh-Ting Lin (2018)  | <br>Postdoctoral fellow<br>smalltennislin@gmail.com<br>Viscous waves, step approximations and others |
 | <br>![]({{ site.baseurl }}/images/members/1551757805621.jpg) | <br>Ben Lin (2018) | <br>Master student<br>jaguar3096@gmail.com<br>Numerical wave tank by LRBFCM |
 | <br>![]({{ site.baseurl }}/images/members/1551757813988.jpg) | <br>Tong-Xuan Hong | <br>Master student<br>jeff02270227@hotmail.com<br>Numerical model |
