@@ -6,7 +6,7 @@ permalink: /members/
 
 # Meet group Members!
 
-| PHOTO  | NAME       | INFORMATION  |
+|    |         |    |
 |:------:|:----------:|------------|
 | <br><br><br><br><br> ![]({{ site.baseurl }}/images/members/1551757722171.jpg) | Tien-Hung Hou | Ph.D student<br>houtienhung@gmail.com<br>Wind-wave model, adaptive quadtree model, ocean modelling and others |
 | <br><br><br><br><br> ![]({{ site.baseurl }}/images/members/1551757727121.jpg) | Wan-Rong Chou | Ph.D student<br>joungwanrong@gmail.com<br>Mild-slope equation, step approximations, finite element method, Boussinesq equations, and others |
