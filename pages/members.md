@@ -15,12 +15,7 @@ permalink: /members/
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757778020.jpg"  height="150" width="150"> | <br>Yu-Hao Ciou | <br>Master student<br>1001239122@stu.nkmu.edu.tw<br>Wave flume experiments |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757785987.jpg"  height="150" width="150"> | <br>Chi-Shian You | <br>Master student<br>1001239122@stu.nkmu.edu.tw<br>EMM solution for tension-leg plateform |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/121.jpg"  height="150" width="150"> | <br>Ru-Yun Chen | <br>Undergraduate Intern<br>gkfmvmjo@gmail.com |
-
-
-# Alumni
-
-|    |         |    |
-|:------:|:----------:|------------|
+| <br> **Alumni** <br> |     |      | 
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757798969.jpg"  height="150" width="150"> | <br>Yueh-Ting Lin (2018)  | <br>Postdoctoral fellow<br>smalltennislin@gmail.com<br>Viscous waves, step approximations and others |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757805621.jpg"  height="150" width="150"> | <br>Ben Lin (2018) | <br>Master student<br>jaguar3096@gmail.com<br>Numerical wave tank by LRBFCM |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757813988.jpg"  height="150" width="150"> | <br>Tong-Xuan Hong | <br>Master student<br>jeff02270227@hotmail.com<br>Numerical model |
