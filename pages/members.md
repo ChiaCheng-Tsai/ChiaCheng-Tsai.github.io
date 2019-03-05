@@ -15,7 +15,7 @@ permalink: /members/
 | <inherit>![]({{ site.baseurl }}/images/members/1551757768921.jpg)</inherit> | Cheng-Jung Hsu | Ph.D student<br>tonyvm3@gmail.com<br>Analytical solutions of soil response by cnoidal waves |
 | <inherit>![]({{ site.baseurl }}/images/members/1551757778020.jpg)<inherit> | Yu-Hao Ciou | Master student<br>1001239122@stu.nkmu.edu.tw<br>Wave flume experiments |
 | <inherit>![]({{ site.baseurl }}/images/members/1551757785987.jpg) | Chi-Shian You | Master student<br>1001239122@stu.nkmu.edu.tw<br>EMM solution for tension-leg plateform |
-| <br><br><br><br><br> ![]({{ site.baseurl }}/images/members/121.jpg) | Ru-Yun Chen | Undergraduate Intern<br>gkfmvmjo@gmail.com |
+| <top>![]({{ site.baseurl }}/images/members/121.jpg)<top> | Ru-Yun Chen | Undergraduate Intern<br>gkfmvmjo@gmail.com |
 
 
 # Alumni
