@@ -4,37 +4,11 @@ title: Research
 permalink: /research/
 ---
 
-My research is mainly focusing on understanding and controlling structural dynamic behavoirs in operational conditions, using advanced theoretical and numerical methods. Of particular interest are structures including stay cables, mooring cables, and bridges. 
-
-Cables are efficient structural components and widely used in structural engineering, e.g., stay cables in cable-stayed bridges, suspenders in suspension bridges and transmission lines, and mooring cables in ocean engineering. They are hanging in the air or submerged in water and are particularly flexible in the transverse direction and hence subjected to problematic vibrations. Understanding and controlling their behaviors in environments typically need to deal with geometric nonlinearity and aerodynamics or hydrodynamics, and other sources of nonlinearity as well, e.g., cable-seabed interaction.
-
-![]({{ site.baseurl }}/resources/topics.jpg)
-
-
-## Topics
-
-### Wave-current interactions and its effects on offshore structures
-- Numerical analysis of steady water waves with arbitrary vorticity
-- Numerical methods for water waves
-- Nonlinear wave-current interaction and its impact on structures
-
-### Mooring system analysis
-- Coupled static and dynamic analyses of mooring systems consisting of multiple cables
-- Time/frequency domain methods for solving mooring cable dynamics
-
-### Stay cable vibration & control
-- Novel vibration control devices/schemes
-- Nonlinear analysis of cable with nonlinear control devices
-- Numerical modeling of cable with dampers and cross-ties
-
-### Building thermodynamics
-- Time series models for building thermodynamics
-- Model predictive control
-
-### Blind modal identification
-- Blind modal identification methods including independent component analysis and second-order blind identification
-- Blind model identification applied to the Donghai Bridge. The layout of accelerometers installed on the main navigation channel bridge is illustrated as below. The accelerations are used for modal identification.
-
-![]({{ site.baseurl }}/resources/bridgeandsensor.jpg)
-
-## Projects
+|    |         |    |
+|:------:|:----------:|:------------:|
+| <br><img src="https://static.wixstatic.com/media/d19f46_668e09bfcf634746aed1e20bc26e4efd.png/v1/fill/w_253,h_87,al_c,q_90/d19f46_668e09bfcf634746aed1e20bc26e4efd.webp"  height="200" width="300"> | <br><img src="https://static.wixstatic.com/media/d19f46_82d11e5e8bae47ea872f1c1e946feaf0~mv2.jpg/v1/fill/w_997,h_748,al_c,q_90,usm_0.66_1.00_0.01/d19f46_82d11e5e8bae47ea872f1c1e946feaf0~mv2.webp"  height="200" width="300"> | <br><img src="https://static.wixstatic.com/media/d19f46_0dcc411f01b34572922e382ddcea936c~mv2.png/v1/fill/w_330,h_186,al_c,q_90/d19f46_0dcc411f01b34572922e382ddcea936c~mv2.webp"  height="200" width="300"> |
+| `<br>Adaptive Spacetree Models` | `<br>Ocean current modeling` | `<br>Oil spill modeling` |
+| <br><img src="https://static.wixstatic.com/media/d19f46_a77d7b37d6fa4840a4dca16118204728.png/v1/fill/w_1356,h_748,al_c,q_90,usm_0.66_1.00_0.01/d19f46_a77d7b37d6fa4840a4dca16118204728.webp"  height="200" width="300"> | <br><img src="https://static.wixstatic.com/media/d19f46_59e1f9e06f884e379bdc1bff53959920.png/v1/fill/w_558,h_283,al_c,q_90/d19f46_59e1f9e06f884e379bdc1bff53959920.webp"  height="200" width="300"> | <br><img src="https://static.wixstatic.com/media/d19f46_39aa8af430ab40d1ae2052eeca889fec.png/v1/fill/w_806,h_698,al_c,q_90/d19f46_39aa8af430ab40d1ae2052eeca889fec.webp"  height="200" width="300"> |
+| `<br>Symbolic waves` | `<br>Finite step method` | `<br>Local Radial Basis<br>Function Collocation Method ` |
+| <br><img src="https://static.wixstatic.com/media/d19f46_ab34c698d1ba44d1b8d11ff250e87bed.png/v1/fill/w_456,h_461,al_c,q_90/d19f46_ab34c698d1ba44d1b8d11ff250e87bed.webp"  height="200" width="300"> | <br><img src="https://static.wixstatic.com/media/d19f46_c6e4037aafb44b309983a17db201bed7.png/v1/fill/w_790,h_553,al_c,q_90/d19f46_c6e4037aafb44b309983a17db201bed7.webp"  height="200" width="300"> | <br><img src="https://static.wixstatic.com/media/d19f46_7742c1068cac4fc9958295aeeda4044e.png/v1/fill/w_621,h_432,al_c,q_90/d19f46_7742c1068cac4fc9958295aeeda4044e.webp"  height="200" width="300"> |
+| `<br>MFS & MPS` | `<br>GetFem++` | `<br>Analytical solutions of waves` |
