@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: post
 title: Adaptive Spacetree Models
 ---
 # Wind-wave Modeling
