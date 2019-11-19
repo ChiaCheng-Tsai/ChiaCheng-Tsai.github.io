@@ -7,7 +7,7 @@ permalink: /course/
 
 ### 2019 Fall
 
-[Engineering mathematics](https://www.dropbox.com/sh/74dkkpfoizn8yhm/AACQYLsmeb0HRTYA-eUZvGN4a?dl=0)
+[Engineering mathematics](https://www.dropbox.com/sh/74dkkpfoizn8yhm/AACQYLsmeb0HRTYA-eUZvGN4a?dl=0&fbclid=IwAR08myDei5iBydggiujKy7OHzowBl-423lYhmkcsPxuVchvQkrgecG2wmjg)
 
 [Meshless methods for scientific computing](https://www.dropbox.com/sh/d032o54gjyf5629/AABOrLNBIOQLPJ5FlKMykEkla?dl=0)
 
