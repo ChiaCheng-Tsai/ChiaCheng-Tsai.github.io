@@ -6,7 +6,7 @@ permalink: /members/
 
 |    |         |    |
 |:------:|:----------:|------------|
-| <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757722171.jpg"  height="200" width="200"> | <br>Tien-Hung Hou | <br>Postdoctoral Research Fellow<br>houtienhung@gmail.com<br>Wind-wave model, adaptive quadtree model, ocean modelling and others |
+| <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757722171.jpg"  height="200" width="200"> | <br>Tien-Hung Hou | <br>Postdoctoral  Fellow<br>houtienhung@gmail.com<br>Wind-wave model, adaptive quadtree model, ocean modelling and others |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757727121.jpg"  height="200" width="200"> | <br>Wan-Rong Chou | <br>Ph.D student<br>joungwanrong@gmail.com<br>Mild-slope equation, step approximations, finite element method, Boussinesq equations, and others |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757733038.jpg"  height="200" width="200"> | <br>Xiaoxiao Wang | <br>Ph.D student<br>xiaoxiao.wang@griffithuni.edu.au<br>Seabed response, poroelasticity, meshless numerical method and others |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757746870.jpg"  height="200" width="200"> | <br>Shuang Han | <br>Ph.D student<br>shuang.han3@griffithuni.edu.au<br>Seabed response, poroelasticity, meshless numerical method and others |
