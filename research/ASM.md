@@ -21,8 +21,7 @@ We used an adaptive quadtree wind wave model (Tsai et al., 2013) to simulate Hur
 - Comparisons of significant wave heights between the measurements and models at buoy 42040 are given in the following figures.
 - The Table gives the error, bias and computing time for our numerical models.
 
-<embed src="https://www.youtube.com/watch?v=2kSUJMdt1ZA" width="350" height="240" autostart=true></embed>
-<video src="https://www.youtube.com/watch?v=2kSUJMdt1ZA">
+[![Adaptive modeling for Hurricane Katrina](http://img.youtube.com/vi/2kSUJMdt1ZA/0.jpg)](https://www.youtube.com/watch?v=2kSUJMdt1ZA)
 
 <img src="https://static.wixstatic.com/media/d19f46_2f42b0e29a124912a61f1df726a4d8f9.png/v1/fill/w_432,h_416,al_c,q_80,usm_0.66_1.00_0.01/d19f46_2f42b0e29a124912a61f1df726a4d8f9.webp"> <img src="https://static.wixstatic.com/media/d19f46_7da861381eda4707bf5d51348efcb69f.png/v1/fill/w_427,h_417,al_c,q_80,usm_0.66_1.00_0.01/d19f46_7da861381eda4707bf5d51348efcb69f.webp">
 
