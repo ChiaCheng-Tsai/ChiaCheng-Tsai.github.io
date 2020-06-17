@@ -28,13 +28,11 @@ We used an adaptive quadtree wind wave model (Tsai et al., 2013) to simulate Hur
 <img src="https://static.wixstatic.com/media/d19f46_6c08dd74978b475c9f05498490b8fffe.png/v1/fill/w_603,h_151,al_c,q_80,usm_0.66_1.00_0.01/d19f46_6c08dd74978b475c9f05498490b8fffe.webp">
 
 
-## [Numerical Wave Tank](https://www.youtube.com/watch?v=0GTIFJjoxfA)
-
-<video src="https://www.youtube.com/watch?v=0GTIFJjoxfA">
+## Numerical Wave Tank
+[![MHLab wave tank](http://img.youtube.com/vi/0GTIFJjoxfA/0.jpg)](https://www.youtube.com/watch?v=0GTIFJjoxfA)
   
-## [Landslide Tsunami](https://www.youtube.com/watch?v=tK4DDuMtC-o)
-
-<video src="https://www.youtube.com/watch?v=tK4DDuMtC-o">
+## Landslide Tsunami
+[![](http://img.youtube.com/vi/tK4DDuMtC-o/0.jpg)](https://www.youtube.com/watch?v=tK4DDuMtC-o)
   
 ## Reference
 
