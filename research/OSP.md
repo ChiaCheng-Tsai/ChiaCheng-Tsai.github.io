@@ -8,5 +8,5 @@ An oil spill is release of liquid petroleum hydrocarbon into the environment mai
 According to the statistical data from the International Tanker Owners Pollution Federation Limited (ITOPF), there were 592 spills worldwide of 7 tons or more from 1990 to 2017. 
 These oil spills had serious effects on environment, economy and society. The fate of spilled oil is affected by environmental conditions and the behavior of the oil itself.
 
-<video src="https://www.youtube.com/watch?v=7No3LTrYdfQ">
-<video src="https://www.youtube.com/watch?v=Mh-ajB8yD6U">
+<embed src ="https://www.youtube.com/watch?v=7No3LTrYdfQ" width="350" height="240" autostart=true></embed>
+<video src ="https://www.youtube.com/watch?v=Mh-ajB8yD6U">
