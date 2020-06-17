@@ -16,4 +16,9 @@ The LRBFCM is a meshless numerical method and its applications to the high-order
 
 <img src="https://static.wixstatic.com/media/d19f46_fcade437c33e4f6f949acd6d6c0fe0e6.png/v1/fill/w_530,h_485,al_c,q_85,usm_0.66_1.00_0.01/d19f46_fcade437c33e4f6f949acd6d6c0fe0e6.webp" width ="350" height="250"><img src="https://static.wixstatic.com/media/d19f46_39518302cd604bc78e75c19f015514c7.png/v1/fill/w_499,h_460,al_c,lg_1,q_85/d19f46_39518302cd604bc78e75c19f015514c7.webp" width ="350" height="250">
 
+<img src="https://static.wixstatic.com/media/d19f46_defaf27507d64015b082c2cb216a5ec1.png/v1/fill/w_361,h_325,al_c,lg_1,q_85/d19f46_defaf27507d64015b082c2cb216a5ec1.webp" width ="350" height="250"><img src="https://static.wixstatic.com/media/d19f46_e54afd3af742453a8bbb082359e64961.png/v1/fill/w_361,h_336,al_c,lg_1,q_85/d19f46_e54afd3af742453a8bbb082359e64961.webp" width ="350" height="250"><img src="https://static.wixstatic.com/media/d19f46_3a498fc45d57407f861ab6bec708d430.png/v1/fill/w_361,h_336,al_c,lg_1,q_85/d19f46_3a498fc45d57407f861ab6bec708d430.webp" width ="350" height="250">
+
+
+### Reference
+Chia-Cheng Tsai, Zhong-Han Lin and Tai-Wen Hsu (2015, Jul). Using local radial basis function collocation method to approximate radiation boundary conditions. Ocean Engineering, 105, 231–241.
 
