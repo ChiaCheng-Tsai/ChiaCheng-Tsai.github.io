@@ -12,4 +12,5 @@ During the symbolic computation, the solutions of a user-prescribed order can be
 <img src="https://static.wixstatic.com/media/d19f46_156513a96ab24ad7985d6306f536f64b.png/v1/fill/w_541,h_349,al_c,q_85,usm_0.66_1.00_0.01/d19f46_156513a96ab24ad7985d6306f536f64b.webp" width="400" height="400"> [![Symbolic Waves](http://img.youtube.com/vi/WVx88BXGSKA/0.jpg)](https://www.youtube.com/watch?v=WVx88BXGSKA)
 
 <img src="https://static.wixstatic.com/media/d19f46_42890b6b20ae4418b920762e0532be6a.png/v1/fill/w_514,h_186,al_c,q_85,usm_0.66_1.00_0.01/d19f46_42890b6b20ae4418b920762e0532be6a.webp"> <img src="https://static.wixstatic.com/media/d19f46_ee830aa9bfc148b2aa842b60c7026a68.jpg/v1/fill/w_599,h_210,al_c,q_80,usm_0.66_1.00_0.01/d19f46_ee830aa9bfc148b2aa842b60c7026a68.webp">
+<img src="https://static.wixstatic.com/media/d19f46_e0c943c33464415b964e2f1919f1faf3.jpg/v1/fill/w_586,h_210,al_c,q_80,usm_0.66_1.00_0.01/d19f46_e0c943c33464415b964e2f1919f1faf3.webp">
 
