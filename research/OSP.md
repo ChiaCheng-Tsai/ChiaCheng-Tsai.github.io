@@ -9,4 +9,7 @@ According to the statistical data from the International Tanker Owners Pollution
 These oil spills had serious effects on environment, economy and society. The fate of spilled oil is affected by environmental conditions and the behavior of the oil itself.
 
 [![media1](http://img.youtube.com/vi/7No3LTrYdfQ/0.jpg)](https://www.youtube.com/watch?v=7No3LTrYdfQ)
+
+
+
 [![media2](http://img.youtube.com/vi/7Mh-ajB8yD6U/0.jpg)](https://www.youtube.com/watch?v=Mh-ajB8yD6U)
