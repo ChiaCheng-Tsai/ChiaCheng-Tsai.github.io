@@ -19,7 +19,7 @@ In this study, the exponential convergence of the MFS is demonstrated by obtaini
 
 <img src="https://static.wixstatic.com/media/d19f46_c74aef5368f74dc8ad95a2c0dda18575.png/v1/fill/w_636,h_425,al_c,q_85,usm_0.66_1.00_0.01/d19f46_c74aef5368f74dc8ad95a2c0dda18575.webp" width ="350" height="250"><img src="https://static.wixstatic.com/media/d19f46_2cf5463c74a2428ab10c97bca610651f.png/v1/fill/w_450,h_50,al_c,q_85,usm_0.66_1.00_0.01/d19f46_2cf5463c74a2428ab10c97bca610651f.webp">
 
-<img src="https://static.wixstatic.com/media/d19f46_cda39f65bfd648c6a6e632f452065ae3.png/v1/fill/w_500,h_161,al_c,q_85,usm_0.66_1.00_0.01/d19f46_cda39f65bfd648c6a6e632f452065ae3.webp" width ="350" height="250"><img src="https://static.wixstatic.com/media/d19f46_cde872aec7504b1abb21818217ef7273.png/v1/fill/w_605,h_335,al_c,q_85,usm_0.66_1.00_0.01/d19f46_cde872aec7504b1abb21818217ef7273.webp" width ="350" height="250">
+<img src="https://static.wixstatic.com/media/d19f46_cda39f65bfd648c6a6e632f452065ae3.png/v1/fill/w_500,h_161,al_c,q_85,usm_0.66_1.00_0.01/d19f46_cda39f65bfd648c6a6e632f452065ae3.webp"><img src="https://static.wixstatic.com/media/d19f46_cde872aec7504b1abb21818217ef7273.png/v1/fill/w_605,h_335,al_c,q_85,usm_0.66_1.00_0.01/d19f46_cde872aec7504b1abb21818217ef7273.webp" width ="350" height="250">
 
 <img src="https://static.wixstatic.com/media/d19f46_a490acea6bea4d75ba3d10f050ecd7ea.png/v1/fill/w_516,h_300,al_c,q_85,usm_0.66_1.00_0.01/d19f46_a490acea6bea4d75ba3d10f050ecd7ea.webp" width ="350" height="250"><img src="https://static.wixstatic.com/media/d19f46_bef2842575cd417496fceae66516ab92.png/v1/fill/w_755,h_550,al_c,q_90,usm_0.66_1.00_0.01/d19f46_bef2842575cd417496fceae66516ab92.webp" width ="350" height="250">
 
