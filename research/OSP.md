@@ -12,7 +12,7 @@ These oil spills had serious effects on environment, economy and society. The fa
 
 [![media1](http://img.youtube.com/vi/7No3LTrYdfQ/0.jpg)](https://www.youtube.com/watch?v=7No3LTrYdfQ)
 
-[![media2](http://img.youtube.com/vi/Mh-ajB8yD6U/1.jpg)](https://www.youtube.com/watch?v=Mh-ajB8yD6U) 
+[![media2](http://img.youtube.com/vi/Mh-ajB8yD6U/0.jpg)](https://www.youtube.com/watch?v=Mh-ajB8yD6U) 
 
 <img src="https://static.wixstatic.com/media/d19f46_50fe3aabc73f421a907e68ddb8a62efa~mv2.png/v1/fill/w_386,h_266,al_c,lg_1,q_85/222.webp">
 
