@@ -28,11 +28,11 @@ SuperLU is a general purpose library for the direct solution of large, sparse, n
 
 IEM solutions for the short-wave sinusoidal slope
 
-<img src="https://static.wixstatic.com/media/d19f46_da3ec10a0d9349ff93af7785b74c52c9.png/v1/fill/w_650,h_299,al_c,lg_1,q_85/d19f46_da3ec10a0d9349ff93af7785b74c52c9.webp" width ="350" height="250">
+<img src="https://static.wixstatic.com/media/d19f46_da3ec10a0d9349ff93af7785b74c52c9.png/v1/fill/w_650,h_299,al_c,lg_1,q_85/d19f46_da3ec10a0d9349ff93af7785b74c52c9.webp">
 
 Reflection coefficients for the sinusoidal shoal
 
-<img src="https://static.wixstatic.com/media/d19f46_9e20f0f31ff342748805b666d939d546.png/v1/fill/w_724,h_363,al_c,q_85,usm_0.66_1.00_0.01/d19f46_9e20f0f31ff342748805b666d939d546.webp" width ="350" height="250">
+<img src="https://static.wixstatic.com/media/d19f46_9e20f0f31ff342748805b666d939d546.png/v1/fill/w_724,h_363,al_c,q_85,usm_0.66_1.00_0.01/d19f46_9e20f0f31ff342748805b666d939d546.webp">
 
 ### Reference
 
