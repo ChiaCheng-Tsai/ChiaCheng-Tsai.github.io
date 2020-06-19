@@ -15,6 +15,7 @@ permalink: /members/
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757785987.jpg"  height="200" width="200"> | <br>Chi-Shian You | <br>Master student<br>1001239122@stu.nkmu.edu.tw<br>EMM solution for tension-leg plateform |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/121.jpg"  height="200" width="200"> | <br>Ru-Yun Chen | <br>Undergraduate Intern<br>gkfmvmjo@gmail.com |
 | <br><br><br> ***Alumni*** |     |      | 
+| <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/.IMG20200524173431.jpg"  height="200" width="200"> | <br>Yu-Qing Huang (2020) | <br>Graduate Student|
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757768921.jpg"  height="200" width="200"> | <br>Cheng-Jung Hsu | <br>Ph.D student<br>tonyvm3@gmail.com<br>Analytical solutions of soil response by cnoidal waves |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757755587.jpg"  height="200" width="200"> | <br> Hạnh Nguyễn Thị Hồng (Helen) | <br>Ph.D student<br>honghanh.ctt@vimaru.edu.vn<br>Ocean modelling |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757778020.jpg"  height="200" width="200"> | <br>Yu-Hao Ciou (2019)  | <br>Master student<br>1001239122@stu.nkmu.edu.tw<br>Wave flume experiments |
