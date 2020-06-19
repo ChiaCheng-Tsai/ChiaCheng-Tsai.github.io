@@ -8,7 +8,19 @@ Check citation report at my Google Scholar [profile](https://scholar.google.com/
 
 
 ## SCI Journal papers
-* Chia-Cheng Tsai, Yueh-Ting Lin, Jen-Yi Chang, and Tai-Wen Hsu (2016, Aug). A coupled-mode study on weakly viscous Bragg scattering of surface gravity waves. , 122, 136-144.
+* Shih-Chun Hsiao, Tien-Hung Hou, Tai-Wen Hsu, Chia-Cheng Tsai (2020,Feb). Using multiple-resolution data in an adaptive simulation for typhoon induced waves in northwest Pacific Ocean. Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment.
+- Zhuo-Jia Fu, Zhuo-Yu Xie, Shun-Ying Ji, Chia-Cheng Tsai, and Ai-Lun Li (2020,Jan). Meshless generalized finite difference method for water wave interactions with multiple-bottom-seated-cylinder-array structures. Ocean Engineering.
+- San Sieu Cuong, Jen-Yi Chang, Chia-Cheng Tsai, Wan-Rong Chou (2019,Dec). An analytical solution for wave transformation over axi-symmetric topography. China Ocean Engineering.
+- Shuang Han, Dong-Sheng Jeng, and Chia-Cheng Tsai (2019,Oct). Response of a porous seabed around an immersed tunnel under wave loading: meshfree model. Journal of Marine Science and Engineering.
+- Jen-Yi Chang, Chia-Cheng Tsai, D. L. Young (2019,Aug). Homotopy method of fundamental solutions for solving nonlinear heat conduction problems. Engineering Analysis with Boundary Elements.
+- Cheng-Di Dong, Thi-Hong-Hanh Nguyen, Tien-Hung Hou, Chia-Cheng Tsai (2019,Aug). Integrated numerical model for the simulation of the T.S. Tmodel for the simulation of the T.S. Taipei oil spill. Journal of Marine Science and Technology.
+- Bing-Ham Lin, Bang-Fuh Chen, Chia-Cheng Tsai (2019,Aug). Method of fundamental solutions on simulating sloshing liquids in a 2D tank. Computers and Mathematics with Applications.
+- C. J. Hsu, Y. Y. Chen, Chia-Cheng Tsai (2019,Aug). Wave-induced seabed response in shallow water. Applied Ocean Research
+- Chia-Cheng Tsai, J.-Y. Chang, H.-C. Hsu, Y.-Y. Chen (2019,Jul). Using symbolic computing to obtain Lagrange-Euler solutions for nonlinear progressive waves on a uniform current. Journal of Coastal Research.
+- Xiao Xiao Wang, Dong-Sheng Jeng, Chia-Cheng Tsai (2019,Apr). Meshfree model for wave-seabed interactions around offshore pipelines. Journal of Marine Science and Engineering.
+- Chia-Cheng Tsai, W. Tai, Tai-Wen Hsu, H.-C. Hsiao	(2018,Oct). Step approximation of water wave scattering caused by tension-leg structures over uneven bottoms. Ocean Engineering.
+- Jen-Yi Chang, Yueh-Ting Lin, Chia-Cheng Tsai (2018,Feb). Viscous numerical wave tank for Bragg resonance by cnoidal and Stokes waves. Journal of Waterway, Port, Coastal, and Ocean Engineering.
+- Chia-Cheng Tsai, Yueh-Ting Lin, Jen-Yi Chang, and Tai-Wen Hsu (2016, Aug). A coupled-mode study on weakly viscous Bragg scattering of surface gravity waves. , 122, 136-144.
 
 - Chia-Cheng Tsai, Yueh-Ting Lin, and Tai-Wen Hsu (2016, Jul). Propagating of obliquely incident, weakly viscous waves over variable bathymetry. Journal of Coastal Research, 32(4), 974-982.
 
