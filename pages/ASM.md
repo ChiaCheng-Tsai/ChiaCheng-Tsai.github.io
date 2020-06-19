@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Adaptive Spacetree Models
+permalink: /research/ASM/
 ---
 # Wind-wave Modeling
 
