@@ -24,5 +24,19 @@ In this study, the exponential convergence of the MFS is demonstrated by obtaini
 
 <img src="https://static.wixstatic.com/media/d19f46_a490acea6bea4d75ba3d10f050ecd7ea.png/v1/fill/w_516,h_300,al_c,q_85,usm_0.66_1.00_0.01/d19f46_a490acea6bea4d75ba3d10f050ecd7ea.webp" width ="350" height="250"><img src="https://static.wixstatic.com/media/d19f46_bef2842575cd417496fceae66516ab92.png/v1/fill/w_755,h_550,al_c,q_90,usm_0.66_1.00_0.01/d19f46_bef2842575cd417496fceae66516ab92.webp" width ="350" height="250">
 
+## Particular Solutions of Splines and Monomials for Polyharmonic and Products of Helmholtz Operators
+
+This study presents the particular solutions for the polyharmonic and the products of Helmholtz partial differential operators with polyharmonic splines and monomials right hand side. By the application of the Hörmander linear partial differential operator theory, many of the systems can be reduced to a single equation involving the polyharmonic or the product of Helmholtz differential operators. If the inhomogeneous right hand side of these operators can be removed by the method of particular solutions, then boundary-type numerical methods, such as the boundary element method, the method of fundamental solutions, and the Trefftz method, can be applied to solve these differential equations. (Tsai et al., 2009; Tsai, 2011)
+
+<img src="https://static.wixstatic.com/media/d19f46_a9b0f4404e1044f3b5925120de645430.png/v1/fill/w_579,h_313,al_c,q_85,usm_0.66_1.00_0.01/d19f46_a9b0f4404e1044f3b5925120de645430.webp" width ="350" height="250">
+<img src="https://static.wixstatic.com/media/d19f46_76d1dcce48c449a396cb66b039d9666c.png/v1/fill/w_750,h_263,al_c,q_85,usm_0.66_1.00_0.01/d19f46_76d1dcce48c449a396cb66b039d9666c.webp" width ="350" height="250">
+<img src="https://static.wixstatic.com/media/d19f46_4fd8546373f5424e8e517d8e518d09c1.png/v1/fill/w_750,h_438,al_c,q_85,usm_0.66_1.00_0.01/d19f46_4fd8546373f5424e8e517d8e518d09c1.webp" width ="350" height="250">
+<img src="https://static.wixstatic.com/media/d19f46_66f0998f902c4897bbfc1dfd4e4d5277.png/v1/fill/w_254,h_338,al_c,lg_1,q_85/d19f46_66f0998f902c4897bbfc1dfd4e4d5277.webp" width ="350" height="250">
+Lars Valter Hörmander (24 January 1931 – 25 November 2012), Fields Medal (1962)
+
+## Reference
+
+Chia-Cheng Tsai, A.H.-D. Cheng and C.S. Chen (2009, Apr). Particular solutions of splines and monomials for polyharmonic and products of Helmholtz operators. Engineering Analysis with Boundary Elements, 33(4), 514-521.
+Chia-Cheng Tsai (2011, Jul). Automatic particular solutions of arbitrary high-order splines associated with polyharmonic and poly-Helmholtz equations. Engineering Analysis with Boundary Elements, 35(7), 925-934.
 
 [Back](https://finitetsai.github.io/research)
