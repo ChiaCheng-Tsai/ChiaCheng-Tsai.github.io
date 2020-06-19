@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Analytical solutions of waves
+permalink: /research/Analytical solutions of waves/
 ---
 ## Long Waves Propagating over Circular Island
 
