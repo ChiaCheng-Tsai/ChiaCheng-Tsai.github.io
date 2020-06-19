@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Finite Step Method 
+permalink: /research/FMS/
 ---
 ## Viscous Wave Scattering over Arbitrary Topography
 
