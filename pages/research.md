@@ -3,7 +3,6 @@ layout: page
 title: Research
 permalink: /research/
 ---
-
 |    |         |    |
 |:------:|:----------:|:------------:|
 | <br><img src="https://static.wixstatic.com/media/d19f46_668e09bfcf634746aed1e20bc26e4efd.png/v1/fill/w_253,h_87,al_c,q_90/d19f46_668e09bfcf634746aed1e20bc26e4efd.webp"  height="200" width="300"> | <br><img src="https://static.wixstatic.com/media/d19f46_82d11e5e8bae47ea872f1c1e946feaf0~mv2.jpg/v1/fill/w_997,h_748,al_c,q_90,usm_0.66_1.00_0.01/d19f46_82d11e5e8bae47ea872f1c1e946feaf0~mv2.webp"  height="200" width="300"> | <br><img src="https://static.wixstatic.com/media/d19f46_0dcc411f01b34572922e382ddcea936c~mv2.png/v1/fill/w_330,h_186,al_c,q_90/d19f46_0dcc411f01b34572922e382ddcea936c~mv2.webp"  height="200" width="300"> |
