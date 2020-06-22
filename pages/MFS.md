@@ -32,6 +32,7 @@ This study presents the particular solutions for the polyharmonic and the produc
 <img src="https://static.wixstatic.com/media/d19f46_76d1dcce48c449a396cb66b039d9666c.png/v1/fill/w_750,h_263,al_c,q_85,usm_0.66_1.00_0.01/d19f46_76d1dcce48c449a396cb66b039d9666c.webp" width ="350" height="250">
 <img src="https://static.wixstatic.com/media/d19f46_4fd8546373f5424e8e517d8e518d09c1.png/v1/fill/w_750,h_438,al_c,q_85,usm_0.66_1.00_0.01/d19f46_4fd8546373f5424e8e517d8e518d09c1.webp" width ="350" height="250">
 <img src="https://static.wixstatic.com/media/d19f46_66f0998f902c4897bbfc1dfd4e4d5277.png/v1/fill/w_254,h_338,al_c,lg_1,q_85/d19f46_66f0998f902c4897bbfc1dfd4e4d5277.webp">
+
 Lars Valter Hörmander (24 January 1931 – 25 November 2012), Fields Medal (1962)
 
 ## Reference
