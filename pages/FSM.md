@@ -21,7 +21,7 @@ This research investigates the effect of molecular viscosity on waves propagatin
 
 ### Eigenfunction Matching Method for  Simulating Wave Scattering by Tension-Leg Platform (2018)
 
-<img src="https://static.wixstatic.com/media/d19f46_e1cb58de1f8642b683af0765684dfc43~mv2.png/v1/fill/w_750,h_634,al_c,q_90,usm_0.66_1.00_0.01/%E6%9C%AA%E5%91%BD%E5%90%8D.webp">
+<img src="https://static.wixstatic.com/media/d19f46_e1cb58de1f8642b683af0765684dfc43~mv2.png/v1/fill/w_750,h_634,al_c,q_90,usm_0.66_1.00_0.01/%E6%9C%AA%E5%91%BD%E5%90%8D.webp" width ="400" height="350">
 
 ### Reference
 Sir H. Lamb, (1937) Hydrodynamics, Cambridge Press.
