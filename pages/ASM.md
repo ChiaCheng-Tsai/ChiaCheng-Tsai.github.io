@@ -10,7 +10,7 @@ permalink: /research/ASM/
 
 Hurricane Katrina is the costliest natural disaster and one of the five deadliest hurricanes in the history of the United States. Among recorded Atlantic hurricanes, it was the sixth strongest overall. At least 1,836 people died (Knabb et al., 2005).
 
-<img src="https://static.wixstatic.com/media/d19f46_4a1e66637b314894af9a97c6d8791155.png/v1/fill/w_403,h_387,al_c,q_80,usm_0.66_1.00_0.01/d19f46_4a1e66637b314894af9a97c6d8791155.webp">
+<img src="images/research/Adaptive Spacetree Models/Katrina-Path-0724-1.png">
 
 
 ## Numerical Results
