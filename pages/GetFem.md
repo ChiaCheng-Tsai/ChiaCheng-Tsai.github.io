@@ -29,11 +29,11 @@ SuperLU is a general purpose library for the direct solution of large, sparse, n
 
 IEM solutions for the short-wave sinusoidal slope
 
-<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/GetFem++/FEMMSE4.png" height="200" width="200">
+<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/GetFem++/FEMMSE4.png">
 
 Reflection coefficients for the sinusoidal shoal
 
-<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/GetFem++/FEMMSE6.png" height="200" width="200">
+<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/GetFem++/FEMMSE6.png">
 
 ### Reference
 
