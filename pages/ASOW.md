@@ -12,7 +12,7 @@ The solution is in terms of the Bessel function expressed by complex variables. 
 
 ### Numerical Results
 
-<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Analytical solutions of waves/AS2.png" ><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Analytical solutions of waves/AS3.png width ="350" height="250">
+<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Analytical solutions of waves/AS2.png" ><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Analytical solutions of waves/AS3.png" width ="350" height="250">
 
 ## Wave over Axi-symmetric Topography (San, 2014)
 
