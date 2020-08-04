@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cathy has her Master degreeion
+title: Cathy has her Master degree
 ---
 
 Congratulations for Cathy to become a Master. She will continue to her Ph.D study. 
