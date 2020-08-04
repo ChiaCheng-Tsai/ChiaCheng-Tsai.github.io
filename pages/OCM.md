@@ -10,7 +10,7 @@ Temporal and spatial characteristics of the vortex street were analyzed at diffe
 The vortex shedding obtained by the model was compared with the shipboard ADCP measurements and the MODIS satellite image. 
 
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Ocean%20current%20modeling/green.png"  width="400" height="400"> <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Ocean%20current%20modeling/sbpom_3D_0046_hours.jpg" width="400" height="400">
-<img src="images/research/Ocean%20current%20modeling/tide.png" width="400" height="400">
+<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Ocean%20current%20modeling/tide.png" width="400" height="400">
 
 
 ### Software
