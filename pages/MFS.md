@@ -31,6 +31,7 @@ This study presents the particular solutions for the polyharmonic and the produc
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/MFS%20%26%20MPS/MFS-9.png" width ="350" height="250">
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/MFS%20%26%20MPS/MFS-16.png" width ="350" height="250">
 
+
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/master/images/research/MFS%20%26%20MPS/MFS-17.png">
 
 Lars Valter Hörmander (24 January 1931 – 25 November 2012), Fields Medal (1962)
