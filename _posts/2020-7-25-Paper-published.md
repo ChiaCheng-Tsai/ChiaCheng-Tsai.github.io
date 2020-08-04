@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper published
+title: JMSE Paper published
 ---
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/posts/You.png">
 
