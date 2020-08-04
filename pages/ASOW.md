@@ -29,6 +29,7 @@ The newly derived solution is further employed to investigate the key patterns o
 ### Reference
 
 Y. S. Kuo, T. W. Hsu, Chia-Cheng Tsai* and Y. H. Huang (2012, Oct). An extended analytic solution of combined refraction and diffraction of long waves propagating over circular island. Journal of Applied Mathematics, Article Number:742705.
+
 Sieu-Cuong San, (2014) Master thesis.
 
 [Back](https://finitetsai.github.io/research)
