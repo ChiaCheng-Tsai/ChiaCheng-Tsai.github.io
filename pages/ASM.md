@@ -22,11 +22,13 @@ We used an adaptive quadtree wind wave model (Tsai et al., 2013) to simulate Hur
 - Comparisons of significant wave heights between the measurements and models at buoy 42040 are given in the following figures.
 - The Table gives the error, bias and computing time for our numerical models.
 
-[![Adaptive modeling for Hurricane Katrina](http://img.youtube.com/vi/2kSUJMdt1ZA/0.jpg)](https://www.youtube.com/watch?v=2kSUJMdt1ZA)
-
-<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Adaptive Spacetree Models/2.png" height="200" width="200"> <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Adaptive Spacetree Models/3.png" height="200" width="200">
+<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Adaptive Spacetree Models/2.png" height="200" width="200">
 
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Adaptive Spacetree Models/4.png">
+
+[![Adaptive modeling for Hurricane Katrina](http://img.youtube.com/vi/2kSUJMdt1ZA/0.jpg)](https://www.youtube.com/watch?v=2kSUJMdt1ZA)
+
+ <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Adaptive Spacetree Models/3.png" height="200" width="200">
 
 
 ## Numerical Wave Tank
