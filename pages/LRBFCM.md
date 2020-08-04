@@ -17,7 +17,7 @@ The LRBFCM is a meshless numerical method and its applications to the high-order
 
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Local Radial Basis Function Collocation Method/LRBFCM5.png" width ="350" height="250"><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Local Radial Basis Function Collocation Method/LRBFCM3.png" width ="350" height="250">
 
-<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Local Radial Basis Function Collocation Method/LRBFCM6.png" width ="350" height="250"><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Local Radial Basis Function Collocation Method/LRBFCM8.png" width ="350" height="250"><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Local Radial Basis Function Collocation Method/LRBFCM7.png" width ="350" height="250">
+<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Local Radial Basis Function Collocation Method/LRBFCM6.png" width ="350" height="250"><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Local Radial Basis Function Collocation Method/LRBFCM7.png" width ="350" height="250"><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Local Radial Basis Function Collocation Method/LRBFCM8.png" width ="350" height="250">
 
 
 ### Reference
