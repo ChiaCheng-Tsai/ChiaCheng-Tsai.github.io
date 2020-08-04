@@ -5,12 +5,14 @@ permalink: /research/SW/
 ---
 ## Automatic Euler-Lagrange Transformation of Nonlinear Progressive Waves in Water of Uniform Depth
 
+<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Symbolic%20Waves/未命名31.png" width="400" height="400">
+
 In this study, we provide a technical note for the implementation of a symbolic Euler-Lagrange transformation on nonlinear progressive water waves. 
 By the implementation, the solution of nonlinear steady waves in the Eulerian description can be obtained and then transformed to the corresponding solution in the Lagrangian description automatically. 
 We consider four closure conditions in a single symbolic implementation to derive both the Eulerian and Lagrangian solutions. In order to accomplish an automatically symbolic computation, we propose trigonometry-polynomial transformations to convert the hierarchical system of differential equations of different orders into a system of algebraic ones. 
 During the symbolic computation, the solutions of a user-prescribed order can be automatically obtained via multiple loops. For example, the fifth-order Euler-Lagrange solutions can be obtained within 7 minutes by a usual PC system. In addition, the seventh-order solutions in the Eulerian and Lagrangian frameworks are firstly obtained by the present code. (Tsai et al., 2015)
 
-<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Symbolic%20Waves/未命名31.png" width="400" height="400"> [![Symbolic Waves](http://img.youtube.com/vi/WVx88BXGSKA/0.jpg)](https://www.youtube.com/watch?v=WVx88BXGSKA)
+ [![Symbolic Waves](http://img.youtube.com/vi/WVx88BXGSKA/0.jpg)](https://www.youtube.com/watch?v=WVx88BXGSKA)
 
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Symbolic%20Waves/未命名32.png"> <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Symbolic%20Waves/Fig6.jpg">
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Symbolic%20Waves/Fig7.jpg">
