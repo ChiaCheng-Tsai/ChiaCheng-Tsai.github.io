@@ -11,7 +11,9 @@ This research investigates the effect of molecular viscosity on waves propagatin
 
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Finite Step Method/step2.png">
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Finite Step Method/FSM1_edited_edited.png">
-<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Finite Step Method/TT.png"> <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Finite Step Method/S2.png">
+<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Finite Step Method/3D.png">
+<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Finite Step Method/TT.png">
+<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Finite Step Method/S2.png">
 
 ### Eigenfunction Matching Method for Simulating Wave Scattering Over Porous Structures (Chang, 2014)
 
