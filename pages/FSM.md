@@ -10,8 +10,8 @@ Lamb developed a plane-wave approximation (PWA) (Lamb, 1937) for describing wave
 This research investigates the effect of molecular viscosity on waves propagating over trenches of different shapes using the plane-wave approximation. We establish a new model which includes real fluid properties and bottom sliding conditions to deal with problems of wave scatteringover trenches. (Tsal et al., 2013)
 
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Finite Step Method/step2.png">
+<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Finite Step Method/F3D.png">
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Finite Step Method/FSM1_edited_edited.png">
-<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Finite Step Method/3D.png">
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Finite Step Method/TT.png">
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Finite Step Method/S2.png">
 
