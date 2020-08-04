@@ -3,7 +3,7 @@ layout: post
 title: Cathy has her Master degree
 ---
 
-<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/posts/Cathy.jpg">
+<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/posts/Cathy.png">
 
 Congratulations for Cathy to get her Master degree. She will continue to a Ph.D study. 
 
