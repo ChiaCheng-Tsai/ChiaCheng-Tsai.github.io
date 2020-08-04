@@ -13,7 +13,7 @@ During the symbolic computation, the solutions of a user-prescribed order can be
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Symbolic%20Waves/未命名31.png" width="400" height="400"> [![Symbolic Waves](http://img.youtube.com/vi/WVx88BXGSKA/0.jpg)](https://www.youtube.com/watch?v=WVx88BXGSKA)
 
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Symbolic%20Waves/未命名32.png"> <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Symbolic%20Waves/Fig6.jpg">
-<img src=https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Symbolic%20Waves/Fig7.jpg">
+<img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/research/Symbolic%20Waves/Fig7.jpg">
 
 ### Lagrangian approach to interfacial water waves with free surface
 
