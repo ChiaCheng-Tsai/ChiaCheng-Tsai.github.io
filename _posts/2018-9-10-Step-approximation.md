@@ -5,7 +5,7 @@ title: Step approximation of water wave scattering caused by tension-leg structu
 
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/posts/final.png">
 
-[Our paper](https://www.sciencedirect.com/science/article/pii/S0029801818308035) is published in [Ocean Engineering](https://www.journals.elsevier.com/ocean-engineering).  We study the scattering of water waves induced by tension leg structures (TLSs) over uneven bottoms using the eigenfunction matching method (EMM).
+[Our paper](https://www.sciencedirect.com/science/article/pii/S0029801818308035) is published in [Ocean Engineering](https://www.journals.elsevier.com/ocean-engineering). We study the scattering of water waves induced by tension leg structures (TLSs) over uneven bottoms using the eigenfunction matching method (EMM).
 
 September 10, 2018
 
