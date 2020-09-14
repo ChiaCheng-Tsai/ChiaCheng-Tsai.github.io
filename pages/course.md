@@ -8,7 +8,7 @@ permalink: /course/
 
 [Engineering mathematics](https://www.dropbox.com/sh/74dkkpfoizn8yhm/AACQYLsmeb0HRTYA-eUZvGN4a?dl=0&fbclid=IwAR08myDei5iBydggiujKy7OHzowBl-423lYhmkcsPxuVchvQkrgecG2wmjg)
 
-[Wave Mechanics](https://www.dropbox.com/sh/wllrpcuktamau8e/AAAy3OjuAL8pXpG8Z1PAVZa7a?dl=0)
+[Wave Mechanics](https://www.dropbox.com/sh/sgpv6j9pom2l6xj/AAARzolw1cR51EZNMLCEKAxpa?dl=0)
 
 ### 2020 Spring
 
