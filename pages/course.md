@@ -4,6 +4,10 @@ title: Course
 permalink: /course/
 ---
 
+### 2021 Spring
+
+[Fluid mechanics](https://www.dropbox.com/sh/nvj9qpzeer0b83c/AAAbQ70Ypi129BhgwKRlNvOua?dl=0)
+
 ### 2020 Fall
 
 [Engineering mathematics](https://www.dropbox.com/sh/74dkkpfoizn8yhm/AACQYLsmeb0HRTYA-eUZvGN4a?dl=0&fbclid=IwAR08myDei5iBydggiujKy7OHzowBl-423lYhmkcsPxuVchvQkrgecG2wmjg)
