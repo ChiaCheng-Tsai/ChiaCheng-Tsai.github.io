@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title:Ocean Engineering Conference 2021
+title: Ocean Engineering Conference 2021
 ---
 
 <img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/posts/Liu1.png" height="300" width="500"> 
