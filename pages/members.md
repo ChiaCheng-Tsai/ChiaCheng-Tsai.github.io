@@ -13,7 +13,7 @@ permalink: /members/
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/121.jpg"  height="200" width="200"> | <br>Ru-Yun Chen | <br>Post Master <br>gkfmvmjo@gmail.com<br>symmetric RBF collocation method, polynomial collocation method, method of approxmiated particular solutions |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/M. Karim.jpg"  height="200" width="200"> | <br> M. Karim | <br><br><br> |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757785987.jpg"  height="200" width="200"> | <br>Chi-Shian You | <br>Master student<br>1001239122@stu.nkmu.edu.tw<br>EMM solution for tension-leg plateform |
-| <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/AndrewOLD.jpg"  height="200" width="200"> | <br>PHAM HAI AN | <br><br>|
+| <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/AndrewOLD.jpg"  height="200" width="200"> | <br> Hai-An Pham | <br><br>|
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/IMG20200524173431.jpg"  height="200" width="200"> | <br>Yu-Qing Huang | <br>Undergraduate Intern<br>Analytical solutions of waves,water wave|
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/yuyen.jpg"  height="200" width="200"> | <br>Yen Yu | <br><br> |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/KAO TZU-HAO.jpg"  height="200" width="200"> | <br> Tzu-Hao Kao | <br><br> |
