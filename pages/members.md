@@ -6,7 +6,6 @@ permalink: /members/
 
 |    |         |    |
 |:------:|:----------:|------------|
-| <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/Prof. Behera.jpg"  height="200" width="200"> | <br>Prof. Behera| <br><br><br>|
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757722171.jpg"  height="200" width="200"> | <br>Tien-Hung Hou | <br>Postdoctoral  Fellow<br>houtienhung@gmail.com<br>Wind-wave model, adaptive quadtree model, ocean modelling and others |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/LIN YOU CHUN.jpg"  height="200" width="200"> | <br> You-Chun Lin| <br>Postdoctoral  Fellow<br>lameixisi@gmail.com<br> |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757746870.jpg"  height="200" width="200"> | <br>Shuang Han | <br>Ph.D student<br>shuang.han3@griffithuni.edu.au<br>Seabed response, poroelasticity, meshless numerical method and others | 
