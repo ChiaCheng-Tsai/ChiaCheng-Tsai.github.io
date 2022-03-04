@@ -13,10 +13,8 @@ permalink: /members/
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/PHAM HAI AN.jpg"  height="200" width="200"> | <br> Hai-An Pham | <br> Ph.D student <br> hunquiin@gmail.com <br> Aplication of numerical model to research on Marine dynamics, RBF collocation method,Ocean modelling|
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/121.jpg"  height="200" width="200"> | <br> Ru-Yun Chen | <br> Ph.D student <br> gkfmvmjo@gmail.com <br> symmetric RBF collocation method, polynomial collocation method, method of approxmiated particular solutions |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/M. Karim.jpg"  height="200" width="200"> | <br> M. Karim | <br> under constuction<br><br> |
-| <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/unknow.jpg"  height="200" width="200"> | <br> R. Gayathri
- | <br><br><br> |
-| <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/unknow.jpg"  height="200" width="200"> | <br>  | <br>A. Kaur
-<br><br> |
+| <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/unknow.jpg"  height="200" width="200"> | <br>R. Gayathri | <br><br><br>|
+| <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/unknow.jpg"  height="200" width="200"> | <br> A. Kaur| <br><br><br>|
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/1551757785987.jpg"  height="200" width="200"> | <br>Chi-Shian You | <br>Master student<br>1001239122@stu.nkmu.edu.tw<br>EMM solution for tension-leg plateform |
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/IMG20200524173431.jpg"  height="200" width="200"> | <br>Yu-Qing Huang | <br> Undergraduate Intern <br> yelan0901@gmail.com <br> EMM solution for wave scattering,water wave|
 | <br><img src="https://raw.githubusercontent.com/FiniteTsai/FiniteTsai.github.io/master/images/members/yuyen.jpg"  height="200" width="200"> | <br>Yen Yu | <br>Undergraduate student <br> st960242@gmail.com <br> Numerical wave tank|
