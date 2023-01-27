@@ -8,7 +8,28 @@ Check citation report at my Google Scholar [profile](https://scholar.google.com/
 
 
 ## SCI Journal papers
-* Shih-Chun Hsiao, Tien-Hung Hou, Tai-Wen Hsu, Chia-Cheng Tsai (2020,Feb). Using multiple-resolution data in an adaptive simulation for typhoon induced waves in northwest Pacific Ocean. Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment.
+
+*	Chang-Thi Tran, Chitsan Lin, Chia-Cheng Tsai* (2023, Jan). Bragg resonance of water waves by multiple permeable thin barriers over periodic breakwaters. Water, 15(3), 495. 本人為通訊作者. 
+-	Jen-Yi Chang, Chia-Cheng Tsai* (2023, Jan). Step approximation on water wave breaking and dissipation over variable bottoms across the surf zone. Journal of Marine Science and Engineering, 11(1), 62. 
+-	Chia-Cheng Tsai*, M. R. Hematiyan, (2023, Jan). Degenerate kernels of polyharmonic and poly-Helmholtz operators in polar and spherical coordinates. Engineering Analysis with Boundary Elements, 148, 137-152. 
+-	D. L. Young, Marvin C. H. Lin, Chia-Cheng Tsai (2022, Nov). Analysis of high Reynolds free surface flows. Journal of Mechanics, 38, 454-472. 
+-	R. Gayathri, Mohamin B M Khan, Harekrushna Behera, Chia-Cheng Tsai (2022, Aug). Wave attenuation by a submerged circular porous membrane. Journal of Ocean Engineering and Science, In press. 
+-	Chia-Cheng Tsai, Yu-Hsuan Chang, Tai-Wen Hsu (2022, May). Step approximation on oblique water wave scattering and breaking by variable porous breakwaters over uneven bottoms. Ocean Engineering, 253, 111325. 
+-	Chia-Cheng Tsai, Chun-Hung Lin (2022, Mar). Review and future perspective of geophysical methods applied in nearshore site characterization. Journal of Marine Science and Engineering, 10(3), 344. 
+-	Jen-Yi Chang, Chia-Cheng Tsai* (2022, Mar). Wave forces on a partially reflecting wall by oblique Bragg scattering with porous breakwaters over uneven bottoms. Journal of Marine Science and Engineering, 10(3), 409.  
+-	Jen-Yi Chang, Ru-Yun Chen, Chia-Cheng Tsai* (2022, Feb). A comparative study on polynomial expansion method and polynomial method of particular solutions. Advances in Applied Mathematics and Mechanics, 14, 539-576. 
+-	Jen-Yi Chang, Ru-Yun Chen, Chia-Cheng Tsai* (2022, Jan). Hermite method of approximate particular solutions for solving time-dependent convection-diffusion-reaction problems. Mathematics, 10(2), 188. 
+-	Cheng-Jung Hsu, Chia-Cheng Tsai*, Yang-Yih Chen (2021, Oct). Wave-induced seabed momentary liquefaction in shallow water. Applied Ocean Research, 115, 102819. 
+-	M.R. Hematiyan, M. Mohammadi, Chia-Cheng Tsai* (2021, Jul). The method of fundamental solutions for anisotropic thermoelastic problems. Applied Mathematical Modelling, 95, 200-218. 
+-	Tien-Hung Hou, Jen-Yi Chang, Chia-Cheng Tsai*, Tai-Wen Hsu (2021, Jul). 3D numerical simulation of Kuroshio-induced wake near Green Island, Taiwan. Journal of Marine Science and Technology, 29(3), 319-331. 
+-	Chang-Thi Tran, Jen-Yi Chang, Chia-Cheng Tsai* (2021, Jun). Step approximation for water wave scattering by multiple thin barriers over undulated bottoms. Journal of Marine Science and Engineering, 9(6), 629. 
+-	Shuang Han, Dong-Sheng Jeng, Chia-Cheng Tsai* (2021, Jun). Meshfree model for earthquake-induced transient response in a porous seabed. Soil Dynamics and Earthquake Engineering, 145, 106713. 
+-	Bing-Ham Lin, Bang-Fuh Chen, Chia-Cheng Tsai (2021, Apr). Method of fundamental solutions on simulating sloshing liquids in a 2D tank. Computers and Mathematics with Applications, 88, 52-69. 
+-	Dong-Sheng Jeng, Xiaoxiao Wang, Chia-Cheng Tsai* (2021, Jan). Meshless model for wave-induced oscillatory seabed response around a submerged breakwater due to regular and irregular wave Loading. Journal of Marine Science and Engineering, 9(1), 15. 
+-	Jen-Yi Chang, Ru-Yun Chen, Chia-Cheng Tsai* (2020, Oct). Symmetric method of approximate particular solutions for solving certain partial differential equations. Engineering Analysis with Boundary Elements, 119, 105-118. 
+-	Tien-Hung Hou, Jen-Yi Chang, Chia-Cheng Tsai*, and Tai-Wen Hsu (2020, Oct). Three-dimensional simulations of wind effects on Green Island wake. Water, 12(11), 3039.  
+-	I-Fan Tseng, Chi-Shian You, Chia-Cheng Tsai* (2020, Jul). Bragg reflections of oblique water waves by periodic surface-piercing and submerged breakwaters. Journal of Marine Science and Engineering, 8(7), 522. 
+- Shih-Chun Hsiao, Tien-Hung Hou, Tai-Wen Hsu, Chia-Cheng Tsai (2020,Feb). Using multiple-resolution data in an adaptive simulation for typhoon induced waves in northwest Pacific Ocean. Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment.
 - Zhuo-Jia Fu, Zhuo-Yu Xie, Shun-Ying Ji, Chia-Cheng Tsai, and Ai-Lun Li (2020,Jan). Meshless generalized finite difference method for water wave interactions with multiple-bottom-seated-cylinder-array structures. Ocean Engineering.
 - San Sieu Cuong, Jen-Yi Chang, Chia-Cheng Tsai, Wan-Rong Chou (2019,Dec). An analytical solution for wave transformation over axi-symmetric topography. China Ocean Engineering.
 - Shuang Han, Dong-Sheng Jeng, and Chia-Cheng Tsai (2019,Oct). Response of a porous seabed around an immersed tunnel under wave loading: meshfree model. Journal of Marine Science and Engineering.
