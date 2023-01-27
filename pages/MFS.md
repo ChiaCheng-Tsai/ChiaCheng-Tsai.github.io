@@ -5,7 +5,9 @@ permalink: /research/MFS/
 ---
 
 ## MFS Water Wave Animation
-Visual Computing@IST Austria innovated [![Fundamental Solutions for Water Wave Animation](http://img.youtube.com/vi/2ZhRNoIbf0g/0.jpg)](https://www.youtube.com/watch?v=2ZhRNoIbf0g)
+Visual Computing@IST Austria innovated
+
+[![Fundamental Solutions for Water Wave Animation](http://img.youtube.com/vi/2ZhRNoIbf0g/0.jpg)](https://www.youtube.com/watch?v=2ZhRNoIbf0g)
 
 ## MFS for Laplace Equation
 
