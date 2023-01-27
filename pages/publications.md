@@ -215,8 +215,9 @@ Check citation report at my Google Scholar [profile](https://scholar.google.com/
 -	Chia-Cheng Tsai (2020, Oct). Recent studies on the eigenfunction matching method for solving problems of water wave scattering. Mini-Symposium on Mathematical Aspects of Water Waves and Applications, Oct 12-15, online. 
 
 -	Tran Thi Chang, Chia-Cheng Tasi (2020, Oct). Step approximation for oblique water wave scattering by thin barriers over uneven bottoms. The 743rd International Conference on Science, Engineering & Technology.
+
 -	Ru-Yun Chen, Jen-Yi Chang, Chia-Cheng Tsai (2019, Aug). Hermite method of particular solution for solving some partial differential equations. The 5th International Workshop on Meshless Methods(IWMM), August 23-25, Qingdao, China. 
--
+
 -	Shuang Han, Chia Cheng Tsai, Dong-Sheng Jeng (2018, Oct). Response of a porous seabed under natural dynamic loading using Meshfree method. The Thirteenth ISOPE Pacific/Asia Offshore Mechanics Symposium. 
 
 -	Xiao-Xiao Wang, Chia-Cheng Tsai, Dong-Sheng Jeng (2018, Oct). Meshfree Model for Wave-Soil-Pipe Interaction. The Thirteenth ISOPE Pacific/Asia Offshore Mechanics Symposium. 
