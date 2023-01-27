@@ -9,7 +9,7 @@ Check citation report at my Google Scholar [profile](https://scholar.google.com/
 
 ## SCI Journal papers
 
-*	Chang-Thi Tran, Chitsan Lin, Chia-Cheng Tsai* (2023, Jan). Bragg resonance of water waves by multiple permeable thin barriers over periodic breakwaters. Water, 15(3), 495. 本人為通訊作者. 
+*	Chang-Thi Tran, Chitsan Lin, Chia-Cheng Tsai* (2023, Jan). Bragg resonance of water waves by multiple permeable thin barriers over periodic breakwaters. Water, 15(3), 495. 
 -	Jen-Yi Chang, Chia-Cheng Tsai* (2023, Jan). Step approximation on water wave breaking and dissipation over variable bottoms across the surf zone. Journal of Marine Science and Engineering, 11(1), 62. 
 -	Chia-Cheng Tsai*, M. R. Hematiyan, (2023, Jan). Degenerate kernels of polyharmonic and poly-Helmholtz operators in polar and spherical coordinates. Engineering Analysis with Boundary Elements, 148, 137-152. 
 -	D. L. Young, Marvin C. H. Lin, Chia-Cheng Tsai (2022, Nov). Analysis of high Reynolds free surface flows. Journal of Mechanics, 38, 454-472. 
