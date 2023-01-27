@@ -3,6 +3,10 @@ layout: page
 title: Method of Fundamental Solutions
 permalink: /research/MFS/
 ---
+
+## MFS Water Wave Animation
+Visual Computing@IST Austria innovated [![Fundamental Solutions for Water Wave Animation]([https://www.youtube.com/watch?v=0GTIFJjoxfA](https://www.youtube.com/watch?v=2ZhRNoIbf0g))
+
 ## MFS for Laplace Equation
 
 It is well known that the method of fundamental solutions (MFS) is a numerical method of exponential convergence. 
