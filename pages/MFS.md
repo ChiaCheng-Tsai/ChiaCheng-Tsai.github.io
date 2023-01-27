@@ -7,6 +7,8 @@ permalink: /research/MFS/
 ## MFS Water Wave Animation
 Visual Computing@IST Austria innovated [![Fundamental Solutions for Water Wave Animation](https://www.youtube.com/watch?v=2ZhRNoIbf0g)](https://www.youtube.com/watch?v=2ZhRNoIbf0g)
 
+(https://www.youtube.com/watch?v=2ZhRNoIbf0g)
+
 ## MFS for Laplace Equation
 
 It is well known that the method of fundamental solutions (MFS) is a numerical method of exponential convergence. 
@@ -46,4 +48,4 @@ Lars Valter Hörmander (24 January 1931 – 25 November 2012), Fields Medal (196
 Chia-Cheng Tsai, A.H.-D. Cheng and C.S. Chen (2009, Apr). Particular solutions of splines and monomials for polyharmonic and products of Helmholtz operators. Engineering Analysis with Boundary Elements, 33(4), 514-521.
 Chia-Cheng Tsai (2011, Jul). Automatic particular solutions of arbitrary high-order splines associated with polyharmonic and poly-Helmholtz equations. Engineering Analysis with Boundary Elements, 35(7), 925-934.
 
-[Back](https://finitetsai.github.io/research)
+[Back](https://ChiaCheng-Tsai.github.io/research)
