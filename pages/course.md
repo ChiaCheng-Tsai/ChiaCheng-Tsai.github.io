@@ -5,7 +5,7 @@ permalink: /course/
 ---
 ### 2023 Fall
 
-[Mathematical models in Ocean Engineering](https://www.dropbox.com/scl/fo/44jttw8wjgvpyteoa4ryf/h?rlkey=vzfrrov9tqqgqmqu4df19cmwu&dl=0)
+[Mathematical Models in Ocean Engineering](https://www.dropbox.com/scl/fo/44jttw8wjgvpyteoa4ryf/h?rlkey=vzfrrov9tqqgqmqu4df19cmwu&dl=0)
 
 [Soil Mechanics](https://www.dropbox.com/sh/ldrod6agp0e135p/AADrvsGaq_NrduabG5PLWJO8a?dl=0)
 ### 2023 Spring
