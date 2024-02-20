@@ -3,6 +3,11 @@ layout: page
 title: Course
 permalink: /course/
 ---
+### 2024 Spring
+
+[Engineering Mathematics](https://www.dropbox.com/sh/74dkkpfoizn8yhm/AACQYLsmeb0HRTYA-eUZvGN4a?dl=0)
+
+[Engineering graphics](https://www.dropbox.com/sh/lofo9277gzs4x2v/AACGYYhnL4NBR2mNedukMY4Ia?dl=0)
 ### 2023 Fall
 
 [Mathematical Models in Ocean Engineering](https://www.dropbox.com/scl/fo/44jttw8wjgvpyteoa4ryf/h?rlkey=vzfrrov9tqqgqmqu4df19cmwu&dl=0)
