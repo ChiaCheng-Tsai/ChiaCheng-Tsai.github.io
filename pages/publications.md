@@ -9,11 +9,55 @@ Check citation report at my Google Scholar [profile](https://scholar.google.com/
 
 ## SCI Journal papers
 
-*	Chang-Thi Tran, Chitsan Lin, Chia-Cheng Tsai* (2023, Jan). Bragg resonance of water waves by multiple permeable thin barriers over periodic breakwaters. Water, 15(3), 495. 
+*	Chein-Shan Liu, Chia-Cheng Tsai, Chih-Wen Chang (2025, Apr). Linearly perturbed frequency equation, new frequency formula, and a linearized Galerkin method for nonlinear vibrational oscillators. Vibration, 8(2), 16. 
+
+-	Sunanda Saha, Koushik Kanti Barman, S. N. Bora, Chia-Cheng Tsai* (2025, Feb). Wave scattering by a coaxial pair of surface-piercing porous cylinder and bottomless thick annular cylinder. Physics of Fluids, 37, 022140. 
+
+-	Biman Sarkar, Priya Sharma, Soumen De, Chia-Cheng Tsai*, Tai-Wen Hsu (2025, Jan). Flexural–gravity wave interaction with dual inverse Π-type breakwaters. Ships and Offshore Structures, online. 
+
+-	Biman Sarkar, Soumen De, Chia-Cheng Tsai*, Tai-Wen Hsu (2025, Jan). Wave scattering by an infinite trench in the presence of bottom-mounted inverted Π-shaped or floating Π-shaped structure. Physics of Fluids, 37, 017131. 
+
+-	I. M. Prasad, N. M. Prasad, R. M. Prasad, Chia-Cheng Tsai, Tai-Wen Hsu, H. Behera (2025, Jan). Surface and interfacial wave propagation over an undulating bottom in a stratified fluid with a moored porous-flexible barrier. Journal of Engineering Mechanics, 151(2), 04024109. 
+
+-	Saniya Suhail, Koushik Kanti Barman, Sunanda Saha, Chia-Cheng Tsai* (2025, Jan). Gravity wave interaction with compressive VLFS in the presence of thick porous bed. European Journal of Mechanics - B/Fluids, 109, 180-198. 
+
+-	Chein-Shan Liu, Chih-Wen Chang, Chia-Cheng Tsai (2024, Oct). Numerical simulations of complex Helmholtz equations using two-block splitting iterative schemes with optimal values of parameters. AppliedMath, 4(4), 1256-1277. (ESCI, EI). 
+
+-	Ren-Jun Huang, Chien-Erh Weng, Chia-Cheng Tsai, Kuan-Jong Fang, Chien-Chang Chou (2024, Oct). Using the analytic hierarchy process to evaluate the Key influencing factors of applying unmanned aerial vehicles to patrol inspections on the turbines in the offshore wind farm. , 56(5), 999-1011. (ESCI, EI). 
+
+-	Koushik Kanti Barman, Ayan Chanda, Chia-Cheng Tsai*, Sandipan Mondal (2024, Sep). Flexural-gravity wave interaction with undulating bottom topography in the presence of uniform current: an asymptotic approach. Applied Mathematical Modelling, 133, 41-64. 
+
+-	R. Gayathri, Chia-Cheng Tsai*, H. Behera (2024, Aug). Wave dynamics around a floating circular flexible plate over a permeable bed. Journal of Offshore Mechanics and Arctic Engineering, 146(4): 041203. 
+
+-	Nikita Naik, Aman Kumar Kushwaha, Harekrushna Behera, Chia-Cheng Tsai* (2024, Jun). Wave energy extraction by an OWC device in the presence of a porous bottom. Energy Reports, 11, 5602-5618. 
+
+-	Akshita Aggarwal, Koushik Kanti Barman, Subash Chandra Martha, Chia-Cheng Tsai (2024, Apr). Water wave interaction with ice-sheet of variable geometry in the presence of uniform current. Physics of Fluids, 36, 042108. 
+
+-	Indra Mani Prasad, Harekrushna Behera, Chia-Cheng Tsai*, Tai-Wen Hsu (2024, Mar). Effects of topographical disturbances on flexural wave motion in a viscous fluid. Physics of Fluids, 36, 037103. 
+
+-	R. Gayathri, Jen-Yi Chang, Chia-Cheng Tsai*, Tai-Wen Hsu (2024, Feb). Wave energy conversion through oscillating water columns: a review. Journal of Marine Science and Engineering, 12(2), 342. 
+
+-	Koushik Kanti Barman, Ayan Chanda, Chia-Cheng Tsai*, Tai-Wen Hsu (2024, Jan). Bragg scattering of gravity waves by a sea bed of varying depth in the presence of uniform current covered by a floating membrane. Physics of Fluids, 36, 012118. 
+
+-	Thi-Hong-Hanh Nguyen, Tien-Hung Hou, Hai-An Pham, Chia-Cheng Tsai* (2024, Jan). Oil spill sensitivity analysis of the coastal waters of Taiwan using an integrated modelling approach. Journal of Marine Science and Engineering, 12, 155. 
+
+-	R. Gayathri, Jen-Yi Chang, Chia-Cheng Tsai* (2023, Sep). Wave power extraction from slanted oscillating water columns in the presence of an array of arbitrary trenches. Physics of Fluids, 35, 097105. 
+
+-	Nikita Naik, R. Gayathri, H. Behera, Chia-Cheng Tsai (2023, Jul). Wave power extraction by a dual OWC chambers over an undulated bottom. Renewable Energy, 216, 119026. 
+
+-	Koushik Kanti Barman, Ayan Chanda, Chia-Cheng Tsai* (2023, Jun). A mathematical study of a two-layer fluid flow system in the presence of a floating breakwater in front of VLFS. Applied Mathematical Modelling, 122, 706-730. 
+
+-	Chia-Cheng Tsai, Harekrushna Behera, Tai-Wen Hsu (2023, Mar). Analysis of water wave interaction with multiple submerged semi-circular porous structures. Archive of Applied Mechanics, 93, 2693–2709. 
+
+-	Thi-Hong-Hanh Nguyen, Tien-Hung Hou, Hai-An Pham, Chia-Cheng Tsai* (2023, Mar). Hindcast of oil spill pollution in the East China Sea in January 2018. Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment, online. 
+
+-	Md. Mouzakkir Hossain, Chia-Cheng Tsai*, Harekrushna Behera (2023, Feb). Instability mechanism of shear-layered fluid in the presence of a floating elastic plate. Physics of Fluids, 35, 027102. 
+
+-	Chang-Thi Tran, Chitsan Lin, Chia-Cheng Tsai* (2023, Jan). Bragg resonance of water waves by multiple permeable thin barriers over periodic breakwaters. Water, 15(3), 495. 
+
+-	Chia-Cheng Tsai*, M. R. Hematiyan (2023, Jan). Degenerate kernels of polyharmonic and poly-Helmholtz operators in polar and spherical coordinates. Engineering Analysis with Boundary Elements, 148, 137-152. 
 
 -	Jen-Yi Chang, Chia-Cheng Tsai* (2023, Jan). Step approximation on water wave breaking and dissipation over variable bottoms across the surf zone. Journal of Marine Science and Engineering, 11(1), 62. 
-
--	Chia-Cheng Tsai*, M. R. Hematiyan, (2023, Jan). Degenerate kernels of polyharmonic and poly-Helmholtz operators in polar and spherical coordinates. Engineering Analysis with Boundary Elements, 148, 137-152. 
 
 -	D. L. Young, Marvin C. H. Lin, Chia-Cheng Tsai (2022, Nov). Analysis of high Reynolds free surface flows. Journal of Mechanics, 38, 454-472. 
 
