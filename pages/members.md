@@ -9,6 +9,12 @@ permalink: /members/
 | <br><img src="https://raw.githubusercontent.com/ChiaCheng-Tsai/ChiaCheng-Tsai.github.io/master/images/members/Behera.jpg"  height="200" width="200"> | <br> Harekrushna Behera | <br>Associate Professor<br>hkb.math@gmail.com<br>Dynamics and stability of thin film flow, Hydroelasticity, Marine hydrodynamics, Boundary value problem, Fluid structure interactions|
 |<br><img src="https://raw.githubusercontent.com/ChiaCheng-Tsai/ChiaCheng-Tsai.github.io/master/images/members/1551757722171.jpg"  height="200" width="200"> | <br> Tien-Hung Hou | <br>Assistant Professor<br>houtienhung@gmail.com<br>Wind-wave model, adaptive quadtree model, ocean modelling and others |
 | <br><img src="https://raw.githubusercontent.com/ChiaCheng-Tsai/ChiaCheng-Tsai.github.io/master/images/members/LIN YU CHUN.jpg"  height="200" width="200"> | <br> Yu-Chun Lin| <br>Assistant Professor<br>lameixisi@gmail.com<br>Physical oceanography,Ocean-Atmosphere numerical modeling,Muleical-scale data analyses|
+
+
+| <br><img src="https://raw.githubusercontent.com/ChiaCheng-Tsai/ChiaCheng-Tsai.github.io/master/images/members/Biman.jpg"  height="200" width="200"> | <br>Biman Sarkar | <br>Postdoctoral Fellow <br>biman228sarkar@gmail.com<br>Wave-structure interactions, Singular integral, Boundary element method|
+| <br><img src="https://raw.githubusercontent.com/ChiaCheng-Tsai/ChiaCheng-Tsai.github.io/master/images/members/Sahoo.jpg"  height="200" width="200"> | <br>Gagan Sahoo | <br>Postdoctoral Fellow <br>gagan.19maz0002@iitrpr.ac.in<br>Wave-structure interactions, Mathematical modelling, Boundary element method, Renewable energy|
+
+
 | <br><img src="https://raw.githubusercontent.com/ChiaCheng-Tsai/ChiaCheng-Tsai.github.io/master/images/members/Shuang Han.jpg"  height="200" width="200"> | <br> Shuang Han | <br>Postdoctoral Fellow<br>shuang.han3@griffithuni.edu.au<br>Seabed response, poroelasticity, meshless numerical method and others | 
 | <br><img src="https://raw.githubusercontent.com/ChiaCheng-Tsai/ChiaCheng-Tsai.github.io/master/images/members/PHAM HAI AN.jpg"  height="200" width="200"> | <br> Hai-An Pham | <br> Ph.D student <br> hunquiin@gmail.com <br> Aplication of numerical model to research on Marine dynamics, RBF collocation method,Ocean modelling|
 | <br><img src="https://raw.githubusercontent.com/ChiaCheng-Tsai/ChiaCheng-Tsai.github.io/master/images/members/IMG20200524173431.jpg"  height="200" width="200"> | <br>Yu-Qing Huang | <br> Research assistant <br> yelan0901@gmail.com <br> Analytical solutions for wave scattering, marine survey|
