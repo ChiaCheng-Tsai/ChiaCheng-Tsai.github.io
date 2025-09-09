@@ -3,6 +3,19 @@ layout: page
 title: Course
 permalink: /course/
 ---
+
+### 2025 Fall
+
+[Engineering Mathematics](https://www.dropbox.com/sh/74dkkpfoizn8yhm/AACQYLsmeb0HRTYA-eUZvGN4a?dl=0)
+
+[Soil Mechanics](https://www.dropbox.com/sh/ldrod6agp0e135p/AADrvsGaq_NrduabG5PLWJO8a?dl=0)
+
+[Eigenfunction Matching Method](https://www.dropbox.com/sh/mzpnnzz35wf9a3l/AADyglJ9bPUP4EWZ8H9yplRBa?dl=0)
+
+### 2025 Spring
+
+[Engineering Mathematics](https://www.dropbox.com/sh/74dkkpfoizn8yhm/AACQYLsmeb0HRTYA-eUZvGN4a?dl=0)
+
 ### 2024 Fall
 
 [Engineering Mathematics](https://www.dropbox.com/sh/74dkkpfoizn8yhm/AACQYLsmeb0HRTYA-eUZvGN4a?dl=0)
